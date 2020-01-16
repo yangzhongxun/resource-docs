@@ -1,0 +1,26 @@
+# Vue
+
+- Vue 解决了什么问题
+- 说说你对 MVVM 的理解
+- 虚拟 DOM
+- ssr
+- 双向绑定的原理
+- 生命周期
+- VueRouter 用哪些API实现的？改变 hash 参数会引起视图的更新吗？
+- 项目都用 Vue 是吧，说说 Vue 的 MVVM 如何交互的？
+- 知道 Vue 监测变量如何实现的吗？
+- Vue 双向绑定的原理（说了对象和数组的监测）？数据劫持
+- v-show，v-if 的区别
+- nextTick
+- 如何实现一个自定义组件，不同组件之间是如何通信的
+- 组件通信：父 -> 子，子 -> 父，非父子组件
+- diff 算法
+- Proxy 对比 defineProperty
+- v-model
+- vue-loader
+- 为什么 data 必须是函数
+- keep-alive
+- watch 和 computed 的用法和区别
+- 路由的跳转方式
+- Vue 和 jQuery 有什么不同
+- Vue 和 React 有什么不同

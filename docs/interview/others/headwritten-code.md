@@ -1,0 +1,33 @@
+# 手写代码
+
+- Ajax
+- Promise
+- call, apply, bind
+- 手写 new 操作符
+- 计时, 倒计时
+- 时间显示
+- 节流、防抖
+- 懒加载
+- 深浅拷贝
+- cookie 操作
+- storage 操作
+- sleep 函数
+- 拖拽
+- eventEmitter, on/off/emit/once
+- 柯里化
+- 数组扁平化
+- 数组去重
+- 数组排序、数组乱序
+- 手写排序算法：快排、冒泡排序、桶排序
+- 驼峰和下划线命名互转
+- 把一串数字格式化为千位分隔、万位分隔
+- 合并两个有序数组
+- 创建类、继承（es5/es6）
+- 斐波那契数列
+- 写一个函数，可以控制最大并发数
+- jsonp 的实现
+- instanceof
+- typeof
+- LazyMan
+- 实现数组 flat，filter 等方法
+- 实现一个双向绑定

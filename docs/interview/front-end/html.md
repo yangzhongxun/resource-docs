@@ -1,0 +1,15 @@
+# HTML
+- 浏览器内核
+- Canvas
+- SVG
+- WebSocket
+- WebGL
+- Web 语义化
+- HTML 语义化的理解和作用
+- HTML5 新特性（新增标签、API）
+- 块状元素、行内元素。理解、区别、举例
+- label 的作用
+- 用 div 模拟 textarea
+- input 和 textarea 的区别
+- 移动设备忽略将页面中的数字识别为电话号码的方法
+- 移动端点击上传的时候只能选择图片怎么设置
