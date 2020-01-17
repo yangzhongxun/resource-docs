@@ -9,19 +9,19 @@ module.exports = {
             },
             {
                 text: '网站',
-                link: '/website/'
-            },
-            {
-                text: '工具',
-                link: '/tools/'
+                link: '/website/public'
             },
             {
                 text: '书籍',
                 link: '/books/js'
             },
             {
+                text: '代码片段',
+                link: '/snippet/js'
+            },
+            {
                 text: '电影',
-                link: '/movies/'
+                link: '/movies/ranking'
             }
         ],
         sidebar: {
@@ -70,10 +70,36 @@ module.exports = {
                     ]
                 }
             ],
+            '/website/': [
+                {
+                    title: '常用网站',
+                    path: 'public',
+                    collapsable: false
+                }
+            ],
             '/books/': [
                 {
                     title: 'JavaScript',
                     path: 'js',
+                    collapsable: false
+                }
+            ],
+            '/snippet/': [
+                {
+                    title: 'JavaScript',
+                    path: 'js',
+                    collapsable: false
+                },
+                {
+                    title: 'CSS',
+                    path: 'css',
+                    collapsable: false
+                }
+            ],
+            '/movies/': [
+                {
+                    title: '电影',
+                    path: 'ranking',
                     collapsable: false
                 }
             ]
