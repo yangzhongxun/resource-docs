@@ -20,7 +20,24 @@
 - 水平、垂直居中
 - nth-of-child 和 nth-of-type 的区别
 - 画三角形
+```css
+.triangle {
+    width: 0;
+    height: 0;
+    border-width: 50px;
+    border-style: solid;
+    border-color: pink transparent transparent transparent;
+}
+```
 - 画圆
+```css
+.circle {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    border: 1px solid #000;
+}
+```
 - 画奥运五环
 - border-box 的作用
 - 经典三栏布局怎么实现

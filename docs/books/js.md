@@ -20,7 +20,7 @@
 - Head First JavaScript
 - JavaScript 模式
 - JavaScript 框架设计
-- JavaScript入门经典（第5版）
+- JavaScript 入门经典（第5版）
 
 ## JavaScript 进阶
 - 深入理解 JavaScript 特性
@@ -31,18 +31,19 @@
 - 深入理解 ES6
 
 ## 工程化
-- 深入浅出Webpack
-- Webpack实战：入门、进阶与调优
+- 深入浅出 Webpack
+- Webpack 实战：入门、进阶与调优
 - 现代前端技术解析
 - 前端架构：从入门到微前端
 - Web前端开发最佳实践
 - 前端工程化：体系设计与实践 : 前端工程化系列
 - 高性能网站建设进阶指南 : Web开发者性能优化最佳实践
-- Web性能权威指南
+- Web 性能权威指南
 
 ## Node.js
 - 深入浅出 Node.js
 - Node.js 实战
+- koa 与 nodejs 开发实战
 
 ## 编程通用
 - 程序员修炼之道 : 从小工到专家

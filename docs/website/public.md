@@ -27,6 +27,10 @@
 - freecodecamp
 - 印记中文
 - 鱼塘热榜官网
+- 51CTO
+- InfoQ
+- 简书
+- 虎嗅
 
 ## 学习
 - 慕课网
@@ -80,9 +84,21 @@
 - Sass Less Stylus
 
 ## UI框架
-Bootstrap Element-ui mint-ui iView Ant Design, Material Design Ant
-Design Mobile Material UI Blueprint Semantic-UI Layui Vant Cube-UI
-Muse-UI Onsen UI
+- Bootstrap
+- Element-ui
+- mint-ui
+- iView
+- Ant Design
+- Ant Design Mobile
+- Material Design
+- Material UI 
+- Blueprint
+- Semantic-UI
+- LayUI
+- Vant
+- Cube-UI
+- Muse-UI
+- Onsen UI
 
 ## 文档
 - [ES6](https://es6.ruanyifeng.com/)
@@ -116,6 +132,7 @@ Muse-UI Onsen UI
 - 百度EFE		https://efe.baidu.com/
 - 有赞技术团队		https://tech.youzan.com/
 - 大搜车
+- 淘宝FED
 
 ## 博客
 - [技术胖](https://jspang.com/)
@@ -133,9 +150,9 @@ Muse-UI Onsen UI
 - [蓝湖](https://lanhuapp.com/)
 - [Iconfont](https://www.iconfont.cn/)
 - [Ionicons](https://ionicons.com/)
-- 石墨文档 https://shimo.im/welcome
-- 腾讯文档	https://docs.qq.com/
-- 草料二维码 https://cli.im/
+- [石墨文档](https://shimo.im/)
+- [腾讯文档](https://docs.qq.com/)
+- [草料二维码](https://cli.im/)
 - 贝洽(BearyChat) https://bearychat.com/
 - Teambition https://www.teambition.com/
 - Teamviewer https://www.teamviewer.com/
@@ -161,6 +178,11 @@ Muse-UI Onsen UI
 - Atom
 - Notepad++
 
+## 代码分享
+- jsFiddle
+- codeSandBox
+- runjs
+
 ## 模板
 - Ant Design Pro
 - iView Admin
@@ -178,12 +200,12 @@ Muse-UI Onsen UI
 - 又拍云
 - DigitalOcean
 - Vultr
-- linode
+- Linode
 - 亚马逊云
 - 谷歌云
 - 搬瓦工
 
 ## 互联网求职
 - 拉勾
-- boos直聘
+- boss 直聘
 - 内推网
