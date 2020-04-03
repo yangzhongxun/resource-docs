@@ -1,32 +1,32 @@
 ## HTML & CSS
 - Head First HTML 与 CSS（第2版）
+- Head First HTML5 Programming
 - HTML & CSS 设计与构建网站
-- 精通 CSS（第2版） : 高级Web标准解决方案
+- 精通 CSS（第2版） : 高级 Web 标准解决方案
 - CSS 揭秘
 - CSS 权威指南（第三版）
-- CSS 世界
-- CSS 选择器世界
+- CSS 禅意花园
 
 ## JavaScript
 - JavaScript 高级程序设计
 - JavaScript 权威指南
-- 你不知道的 JavaScript
-- JavaScript DOM 编程艺术（第2版）
-- JavaScript 忍者指南
 - JavaScript 语言精粹
-- 高性能 JavaScript
 - JavaScript 设计模式与开发实践
 - JavaScript 语言精髓与编程实践
-- Head First JavaScript
-- JavaScript 模式
+- JavaScript 忍者秘籍
 - JavaScript 框架设计
+- JavaScript DOM 编程艺术（第2版）
+- JavaScript 模式
 - JavaScript 入门经典（第5版）
+- Head First JavaScript
+- 你不知道的 JavaScript
+- 高性能 JavaScript
 
 ## JavaScript 进阶
 - 深入理解 JavaScript 特性
 - 了不起的 JavaScript 工程师：从前端到全端高级进阶
 
-## ECMA2015
+## ES6
 - ES6 标准入门（第3版）
 - 深入理解 ES6
 
