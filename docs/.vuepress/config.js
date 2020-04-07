@@ -27,6 +27,19 @@ module.exports = {
         sidebar: {
             '/interview/': [
                 {
+                    title: '计算机基础',
+                    collapsable: false,
+                    children: [
+                        'basics/data-structure',
+                        'basics/algorithm',
+                        'basics/http',
+                        'basics/network',
+                        'basics/operate-system',
+                        'basics/design-patterns',
+                        'basics/regular-expression'
+                    ]
+                },
+                {
                     title: '前端基础',
                     collapsable: false,
                     children: [
@@ -42,16 +55,6 @@ module.exports = {
                         'framework/vue',
                         'framework/react',
                         'framework/webpack'
-                    ]
-                },
-                {
-                    title: '计算机基础',
-                    collapsable: false,
-                    children: [
-                        'basics/algorithm',
-                        'basics/http',
-                        'basics/network',
-                        'basics/regular-expression'
                     ]
                 },
                 {
@@ -81,6 +84,11 @@ module.exports = {
                 {
                     title: 'JavaScript',
                     path: 'js',
+                    collapsable: false
+                },
+                {
+                    title: '编程之外',
+                    path: 'open-eyes',
                     collapsable: false
                 }
             ],

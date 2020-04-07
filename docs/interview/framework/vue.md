@@ -3,7 +3,7 @@
 - Vue 解决了什么问题
 - 说说你对 MVVM 的理解
 - 虚拟 DOM
-- ssr
+- 谈谈你对 ssr 的了解
 - 双向绑定的原理
 - 生命周期
 - VueRouter 用哪些API实现的？改变 hash 参数会引起视图的更新吗？
@@ -24,3 +24,4 @@
 - 路由的跳转方式
 - Vue 和 jQuery 有什么不同
 - Vue 和 React 有什么不同
+- complier，htmlparser，render 函数

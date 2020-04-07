@@ -32,7 +32,6 @@
 - W3ctech
 - 前端乱炖
 - codewars
-- freecodecamp
 - 印记中文
 - [鱼塘热榜官网](https://mo.fish/)
 - 51CTO
@@ -66,8 +65,8 @@
 ## 刷题
 - [LeetCode](https://leetcode.com/)
 - [LintCode](https://lintcode.com/)
+- [freeCodeCamp](https://www.freecodecamp.org/)
 - [牛客网](http://newcoder.com/)
-- 南阳理工大学
 
 ## 框架
 - [Vue.js](https://vuejs.org/)
@@ -99,7 +98,8 @@
 - Zepto.js
 - Lodash
 - Underscore
-- Moment.js		
+- Immutable.js
+- Moment.js
 - Day.js
 - Axios
 - Fly.js
@@ -155,7 +155,7 @@
 ## 文档生成器
 - Jekyll
 - Hexo
-- VuePress
+- [VuePress](https://vuepress.vuejs.org/)
 - Docsify
 - Gitbook
 - Dawn
