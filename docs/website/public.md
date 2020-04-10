@@ -1,6 +1,6 @@
 # 常用网站
 
-## 导航
+## Navigator
 - [Web 前端导航(AlloyTeam)](http://www.alloyteam.com/nav/)
 - [前端网址导航(大前端)](http://www.daqianduan.com/nav)
 - [发现导航](http://nav.xiejiahe.com/)
@@ -8,38 +8,40 @@
 - [haorooms](https://www.haorooms.com/nav)
 - [w3cways](https://www.w3cways.com/nav)
 
-## 常用
+## Common
 - [Google](https://www.google.com/)
 - [GitHub](https://github.com/)
 - [MDN](https://developer.mozilla.org/)
+- [W3Schools](https://www.w3schools.com/)
 - [Stack Overflow](https://stackoverflow.com/)
 
-## 社区
-- SegmentFault
-- 掘金
-- Awesomes
-- 开发者头条
-- 知乎
-- 码云
-- 博客园
-- CSDN
-- CNode
+## Commity
+- [SegmentFault](https://segmentfault.com/)
+- [掘金](https://juejin.im/)
+- [Awesomes](https://www.awesomes.cn/)
+- [开发者头条](https://toutiao.io/)
+- [知乎](https://zhihu.com/)
+- [码云](https://gitee.com/)
+- [博客园](https://www.cnblogs.com/)
+- [CSDN](https://www.csdn.net/)
+- [CNode](https://cnodejs.org/)
 - [React China](http://react-china.org/)
-- V2EX
-- 伯乐在线
-- 开源中国
-- W3cplus
-- W3ctech
-- 前端乱炖
-- codewars
-- 印记中文
-- [鱼塘热榜官网](https://mo.fish/)
-- 51CTO
-- InfoQ
-- 简书
-- 虎嗅
+- [V2EX](https://www.v2ex.com/)
+- [推酷](http://www.tuicool.com/)
+- [开源中国](https://www.oschina.net/)
+- [W3cplus](https://www.w3cplus.com/)
+- [W3ctech](https://w3ctech.com/)
+- [前端乱炖](http://www.html-js.com/)
+- [印记中文](https://www.docschina.org/)
+- [鱼塘热榜](https://mo.fish/)
+- [51CTO](https://www.51cto.com/)
+- [InfoQ](https://www.infoq.com/)
+- [简书](https://www.jianshu.com/)
+- [虎嗅](https://www.huxiu.com/)
+- [1024 只猴子](https://1024.com/)
+- [面经网](https://v2ee.cn/)
 
-## 学习
+## Learning
 - 慕课网
 - 极客学院
 - 妙味课堂
@@ -53,7 +55,6 @@
 - 网易云课堂
 - 腾讯课堂
 - [有道精品课](https://ke.youdao.com/)
-- [w3schools](https://www.w3schools.com/)
 - edX
 - Coursera
 - Udacity
@@ -62,13 +63,14 @@
 - Udemy
 - Khan Academy
 
-## 刷题
+## Practice Code Skills
 - [LeetCode](https://leetcode.com/)
 - [LintCode](https://lintcode.com/)
 - [freeCodeCamp](https://www.freecodecamp.org/)
+- [Codewars](https://www.codewars.com/)
 - [牛客网](http://newcoder.com/)
 
-## 框架
+## Frameworks
 - [Vue.js](https://vuejs.org/)
 - [React](https://reactjs.org/)
 - [Preact](https://preactjs.com/)
@@ -86,14 +88,7 @@
 - React Native
 - Weex
   
-## 小程序框架
-- Taro
-- mpvue
-- Wepy
-- Uni-app
-- Chameleon
-	
-## 类库
+## Library
 - jQuery
 - Zepto.js
 - Lodash
@@ -104,7 +99,7 @@
 - Axios
 - Fly.js
 - D3.js
-- Echarts
+- ECharts
 - HighCharts
 - Chart.js
 - Three.js
@@ -112,11 +107,25 @@
 - Normalize.css
 - Sass Less Stylus
 
-## UI框架
+## Shims and Polyfills
+
+* [es5-shim](https://github.com/es-shims/es5-shim)
+* [es6-shim](https://github.com/paulmillr/es6-shim)
+* [es7-shim](https://github.com/es-shims/es7-shim)
+
+## Mini Program
+
+- Taro
+- mpvue
+- Wepy
+- Uni-app
+- Chameleon
+
+## UI Components
 - Bootstrap
 - Element-ui
 - mint-ui
-- iView
+- View UI
 - Ant Design
 - Ant Design Mobile
 - Material Design
@@ -129,7 +138,7 @@
 - Muse-UI
 - Onsen UI
 
-## 文档
+## Documents
 - [CSS 参考手册](http://css.doyoe.com/)
 - [JavaScript - 阮一峰](https://www.liaoxuefeng.com/wiki/1022910821149312)
 - [编程笔记 - 新加坡南洋理工大学](https://www.ntu.edu.sg/home/ehchua/programming/)
@@ -142,7 +151,7 @@
 - [Vue 技术揭幕](https://ustbhuangyi.github.io/vue-analysis/)
 - [Vue 技术内幕](https://ustbhuangyi.github.io/vue-analysis/)
 
-## 文章
+## Articles
 - [JS 开发者必知的 33 个概念](https://github.com/leonardomso/33-js-concepts)
 - [深入理解 JavaScript 系列](https://www.cnblogs.com/TomXu/archive/2011/12/15/2288411.html)
 - [Vue.js 源码解析](https://github.com/answershuto/learnVue)
@@ -152,7 +161,11 @@
 - [前端工程师手册](https://leohxj.gitbooks.io/front-end-database/interview/skill-path.html)
 - [华南城前端编码规范](http://res.csc86.com/)
 
-## 文档生成器
+## Code Style Guide
+
+* [O2前端代码规范文档](https://guide.aotu.io/)
+
+## Documation Generator
 - Jekyll
 - Hexo
 - [VuePress](https://vuepress.vuejs.org/)
@@ -161,9 +174,12 @@
 - Dawn
 - Docusaurus
 
-## 团队
+## Team
 - [美团技术团队](https://tech.meituan.com/)
 - [腾讯AlloyTeam](http://alloyteam.com/)
+- [腾讯CDC](https://cdc.tencent.com/)
+- [腾讯MXD](https://mxd.tencent.com/)
+- [ISUX](https://isux.tencent.com/)
 - [阿里巴巴国际UED团队](http://www.aliued.com/)
 - [奇舞团](https://75team.com/)
 - [京东凹凸实验室](https://aotu.io/)
@@ -173,7 +189,7 @@
 - [百度 EFE](https://efe.baidu.com/)
 - [有赞技术团队](https://tech.youzan.com/)
 
-## 博客
+## Personal Blogs
 - [技术胖](https://jspang.com/)
 - [廖雪峰](https://www.liaoxuefeng.com/)
 - [阮一峰](http://www.ruanyifeng.com/)
@@ -188,10 +204,10 @@
 - [山月行](https://shanyue.tech/)
 - [相学长](https://juejin.im/user/58f876dc5c497d0058e38ae1/posts)
 - [吕大豹](https://www.cnblogs.com/lvdabao/)
-- [小胡子哥](https://www.barretlee.com/)
+- [纯洁的微笑](http://www.ityouknow.com/)
 - [HcySunYang](http://hcysun.me/)
 
-## 工具
+## Tools
 - [ProcessOn](https://www.processon.com/)
 - [百度脑图](http://naotu.baidu.com/)
 - [墨刀](https://modao.cc/)
@@ -221,35 +237,44 @@
 - 有道云笔记
 - Gmail
 
-## 正则表达式
+## Web Design
+
+* [Behance](https://www.behance.net/)
+* [Dribbble](https://dribbble.com/)
+* [花瓣](https://huaban.com/)
+* [站酷(ZCOOL)](https://www.zcool.com.cn/)
+* [爱果果](https://www.iguoguo.net/)
+* [优设网](http://www.uisdc.com/)
+
+## Regular Expression
 - [regex101](https://regex101.com/)
 - [RegExr](https://regexr.com/)
 - [RegexOne](https://regexone.com/)
 - [Regular-Expressions.info](https://www.regular-expressions.info/)
 
-## 编辑器
-- WebStorm
-- VS Code
-- Sublime
-- Atom
-- Notepad++
+## IDE & Editor
+- [WebStorm](https://www.jetbrains.com/webstorm/)
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [Sublime Text](https://www.sublimetext.com/)
+- [Atom](https://atom.io/)
+- [Notepad++](https://notepad-plus-plus.org/)
 
-## 代码分享
+## Code Sharing
 - jsFiddle
 - codeSandBox
 - [codepen](https://codepen.io/)
 - runjs
 - jsbin
 
-## 模板
-- Ant Design Pro
-- iView Admin
-- iView Admin Pro
-- 微燕商城
-- D2 Admin
-- Vue Element Admin
+## Admin Template
+- [Ant Design Pro](https://preview.pro.ant.design/)
+- [iView Admin](https://admin.iviewui.com/home)
+- [iView Admin Pro](https://adminpro.iviewui.com/)
+- [D2Admin](https://d2-admin.netlify.com/)
+- [Vue Element Admin](https://panjiachen.gitee.io/vue-element-admin/)
+- [微燕商城](https://github.com/jikeytang/vyan-shop-admin)
 
-## 云服务
+## Cloud Service
 - 阿里云
 - 腾讯云
 - 百度云
@@ -263,28 +288,37 @@
 - 谷歌云
 - 搬瓦工
 
-## 招聘求职
+## Jobs
 - 拉勾
 - boss 直聘
 - 内推网
 - LinkedIn
 
-## 前端培训
+## Programming training
 
-* 传智播客
-* 尚学堂
-* 京程一灯
-* 潭州学院
-* 麦子学院
-* 黑马程序员
-* 千锋教育
-* 达内
-* 尚德机构
-* 北大青鸟
-* 尚硅谷
-* 修真院
-* 不凡学院
-* 中公教育优就业
-* 珠峰培训
-* 渡一教育
-* 饥人谷
+* [传智播客](http://www.itcast.cn/)
+* [黑马程序员](http://www.itheima.com/)
+* [尚学堂](https://www.bjsxt.com/)
+* [京程一灯](https://www.yidengxuetang.com/)
+* [潭州课堂](https://www.shiguangkey.com/)
+* [千锋教育](http://www.mobiletrain.org/)
+* [达内](http://www.tedu.cn/)
+* [北大青鸟](http://www.bdqn.cn/)
+* [尚硅谷](http://www.atguigu.com/)
+* [修真院](http://www.jnshu.com/)
+* [不凡学院](https://www.bufanui.com/)
+* [优就业](http://www.ujiuye.com/)
+* [珠峰培训](http://www.zhufengpeixun.cn/)
+* [渡一教育](http://www.duyiedu.com/)
+* [饥人谷](https://jirengu.com/) [写代码啦](https://xiedaimala.com/)
+
+## Children programming
+
+* [编程猫](https://www.codemao.cn/)
+* [编玩边学](https://www.codepku.com/)
+
+## TODO
+
+Link 属性
+
+> 编号, 名称, 链接, 描述, 图标, 排序, 类别
