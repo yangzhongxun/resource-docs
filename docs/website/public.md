@@ -14,6 +14,8 @@
 - [MDN](https://developer.mozilla.org/)
 - [W3Schools](https://www.w3schools.com/)
 - [Stack Overflow](https://stackoverflow.com/)
+- [W3C](https://www.w3.org/)
+- [Apple Developer](https://developer.apple.com/)
 
 ## Commity
 - [SegmentFault](https://segmentfault.com/)
@@ -40,6 +42,9 @@
 - [虎嗅](https://www.huxiu.com/)
 - [1024 只猴子](https://1024.com/)
 - [面经网](https://v2ee.cn/)
+- [Medium](https://medium.com/)
+- [DEV Community](https://dev.to/)
+- [前端开发博客](http://caibaojian.com/)
 
 ## Learning
 - 慕课网
@@ -62,6 +67,8 @@
 - TED
 - Udemy
 - Khan Academy
+- [Vue School](https://vueschool.io/)
+- [Vue Mastery](https://www.vuemastery.com/)
 
 ## Practice Code Skills
 - [LeetCode](https://leetcode.com/)
@@ -119,7 +126,7 @@
 - mpvue
 - Wepy
 - Uni-app
-- Chameleon
+- [Chameleon](https://github.com/didi/chameleon)
 
 ## UI Components
 - Bootstrap
@@ -129,14 +136,16 @@
 - Ant Design
 - Ant Design Mobile
 - Material Design
-- Material UI 
+- Material UI
 - Blueprint
 - Semantic-UI
 - LayUI
 - Vant
+- vuetify
 - Cube-UI
 - Muse-UI
 - Onsen UI
+- Vonic
 
 ## Documents
 - [CSS 参考手册](http://css.doyoe.com/)
@@ -159,20 +168,146 @@
 - [Vue.js 技术内幕](http://hcysun.me/vue-design/zh/)
 - [前端笔记](https://kb.hcysun.me/#/)
 - [前端工程师手册](https://leohxj.gitbooks.io/front-end-database/interview/skill-path.html)
-- [华南城前端编码规范](http://res.csc86.com/)
+- [Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
+- [前端小白半年准备，成功进入BAT](https://github.com/brickspert/blog/issues/16)
+- [Python 快速教程](https://www.cnblogs.com/vamei/archive/2012/09/13/2682778.html)
+- [Java 快速教程](https://www.cnblogs.com/vamei/archive/2013/03/31/2991531.html)
 
 ## Code Style Guide
 
 * [O2前端代码规范文档](https://guide.aotu.io/)
+* [华南城前端编码规范](http://res.csc86.com/)
 
-## Documation Generator
+## Documation Tools
 - Jekyll
 - Hexo
 - [VuePress](https://vuepress.vuejs.org/)
-- Docsify
-- Gitbook
+- [Gridsome](https://github.com/gridsome/gridsome)
+- [Docsify](https://docsify.js.org/)
+- [GitBook](https://www.gitbook.com/)
 - Dawn
 - Docusaurus
+- [Docute](https://github.com/egoist/docute)
+
+
+
+https://github.com/nathantsoi/vue-native-websocket
+
+https://github.com/zimv/websocket-heartbeat-js
+
+
+
+https://github.com/sockjs/sockjs-client
+
+
+
+https://github.com/socketio/socket.io-client
+
+https://github.com/icebob/vue-websocket Simple websocket (socket.io) plugin for Vue.js
+https://github.com/MetinSeylan/Vue-Socket.io
+
+
+
+https://github.com/netty/netty
+
+
+
+https://www.cnblogs.com/mybug/p/11718549.html
+
+https://www.cnblogs.com/tugenhua0707/p/8648044.html
+
+https://www.cnblogs.com/1wen/p/5808276.html
+
+
+
+```
+return {
+	ws: null, // websocket 连接
+	heartBeartInterval: '', // 心跳频率
+}
+
+// 发送心跳
+// 重置心跳
+// 失败重连
+
+methods
+// send
+// close
+// reconnect
+
+events
+// open
+// message
+// error
+// close
+
+
+
+<template>
+  <div>
+<!--    <el-button type="primary" @click="init">Connect</el-button>-->
+    <el-button type="success" @click="sendData">Send</el-button>
+    <el-button type="danger" @click="disconnect">Disconnect</el-button>
+    <el-button type="danger" @click="reconnect">Reconnect</el-button>
+  </div>
+</template>
+
+<script>
+export default {
+  data() {
+    return {
+      // url: 'ws://121.40.165.18:8800',
+      url: 'ws://192.168.101.30:8881/webSocket',
+      socket: null
+    }
+  },
+  created() {
+
+  },
+  beforeDestroyed() {
+  },
+  methods: {
+    init() {
+      this.socket = new WebSocket(this.url)
+
+      // 已连接
+      this.socket.onopen = () => {
+        console.log('open')
+      }
+
+      // 接收
+      this.socket.onmessage = res => {
+        console.log(res)
+      }
+
+      // 报错
+      this.socket.onerror = error => {
+        console.error(error)
+      }
+
+      // 已关闭
+      this.socket.onclose = () => {
+        console.log('closed')
+      }
+    },
+    sendData() {
+      this.socket.send('Data from client')
+    },
+    disconnect() {
+      this.socket.close()
+    },
+    reconnect() {
+     	this.socket.open()
+    }
+  }
+}
+</script>
+
+```
+
+
+
+
 
 ## Team
 - [美团技术团队](https://tech.meituan.com/)
@@ -188,6 +323,7 @@
 - [百度 FEX](http://fex.baidu.com/)
 - [百度 EFE](https://efe.baidu.com/)
 - [有赞技术团队](https://tech.youzan.com/)
+- [奇舞团](https://75.team/)
 
 ## Personal Blogs
 - [技术胖](https://jspang.com/)
@@ -206,12 +342,22 @@
 - [吕大豹](https://www.cnblogs.com/lvdabao/)
 - [纯洁的微笑](http://www.ityouknow.com/)
 - [HcySunYang](http://hcysun.me/)
+- [lucifer](https://lucifer.ren/)
+- [John Resig](https://johnresig.com/)
+- [Java 全栈知识体系](https://www.pdai.tech/)
+- [Aaron](https://guanpengchn.github.io/)
+- [Vamei](https://www.cnblogs.com/vamei)
+- [豪情](https://www.cnblogs.com/jikey/)
+- [左耳朵耗子](https://coolshell.cn/)
+- [勾三股四](https://jiongks.name/)
+- [BYVoid](https://www.byvoid.com/)
 
 ## Tools
 - [ProcessOn](https://www.processon.com/)
 - [百度脑图](http://naotu.baidu.com/)
 - [墨刀](https://modao.cc/)
 - [蓝湖](https://lanhuapp.com/)
+- [xiaopiu](https://www.xiaopiu.com/)
 - [Iconfont](https://www.iconfont.cn/)
 - [Ionicons](https://ionicons.com/)
 - [石墨文档](https://shimo.im/)
@@ -236,6 +382,8 @@
 - 有道词典
 - 有道云笔记
 - Gmail
+- [typing.io](https://typing.io/)
+- [keybr](https://www.keybr.com/)
 
 ## Web Design
 
@@ -251,6 +399,8 @@
 - [RegExr](https://regexr.com/)
 - [RegexOne](https://regexone.com/)
 - [Regular-Expressions.info](https://www.regular-expressions.info/)
+- [Regexper](https://regexper.com/)
+- [正则大全](https://any86.github.io/any-rule/)
 
 ## IDE & Editor
 - [WebStorm](https://www.jetbrains.com/webstorm/)
