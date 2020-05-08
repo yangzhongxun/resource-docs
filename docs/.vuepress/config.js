@@ -1,6 +1,7 @@
 module.exports = {
     title: 'New World',
     description: 'New World',
+    base: '/resource-docs/',
     themeConfig: {
         nav: [
             {

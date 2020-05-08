@@ -1,6 +1,6 @@
 # 常用网站
 
-## Navigator
+## Navigation
 - [Web 前端导航(AlloyTeam)](http://www.alloyteam.com/nav/)
 - [前端网址导航(大前端)](http://www.daqianduan.com/nav)
 - [发现导航](http://nav.xiejiahe.com/)
@@ -23,6 +23,8 @@
 - [Awesomes](https://www.awesomes.cn/)
 - [开发者头条](https://toutiao.io/)
 - [知乎](https://zhihu.com/)
+- [微博](https://weibo.com/)
+- [豆瓣](https://douban.com/)
 - [码云](https://gitee.com/)
 - [博客园](https://www.cnblogs.com/)
 - [CSDN](https://www.csdn.net/)
@@ -80,12 +82,14 @@
 ## Frameworks
 - [Vue.js](https://vuejs.org/)
 - [React](https://reactjs.org/)
+- [Angular](https://angular.io/)
 - [Preact](https://preactjs.com/)
 - [Node.js](https://nodejs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Webpack](https://webpack.js.org/)
 - Git
 - ESLint
+- [stylelint](https://stylelint.io/)
 - Rax
 - Nerv
 - [Flow](https://flow.org/)
@@ -94,6 +98,7 @@
 - Electron
 - React Native
 - Weex
+- Flutter
   
 ## Library
 - jQuery
@@ -109,10 +114,32 @@
 - ECharts
 - HighCharts
 - Chart.js
+- [G2](https://g2.alipay.com/)
 - Three.js
 - Animate.css
 - Normalize.css
-- Sass Less Stylus
+- Sass Less Stylus postCSS
+- fastclick
+- swiper
+- js-cookie
+- nprogress
+- clipboard
+- better-scroll
+- [ramda](https://github.com/ramda/ramda)
+- [decimal.js](https://github.com/MikeMcl/decimal.js/)
+- path-to-regexp
+- easy-mock
+- pdf.js
+- web uploader
+- fileSaver.js
+- jsdoc
+
+## 加密
+- md5
+- sha1
+- [base64](https://github.com/dankogai/js-base64)
+- jsSHA
+- [crypto](https://github.com/brix/crypto-js)
 
 ## Shims and Polyfills
 
@@ -121,12 +148,13 @@
 * [es7-shim](https://github.com/es-shims/es7-shim)
 
 ## Mini Program
-
 - Taro
 - mpvue
 - Wepy
 - Uni-app
 - [Chameleon](https://github.com/didi/chameleon)
+- mpx
+- [omi](https://github.com/Tencent/omi)
 
 ## UI Components
 - Bootstrap
@@ -141,11 +169,21 @@
 - Semantic-UI
 - LayUI
 - Vant
+- Zent
 - vuetify
 - Cube-UI
 - Muse-UI
 - Onsen UI
 - Vonic
+- Vuetify
+- Buefy
+- vux
+- cube-ui
+- mint-ui
+
+## Test Frameworks
+- [Jest](https://jestjs.io/)
+- [Mocha](https://mochajs.org/)
 
 ## Documents
 - [CSS 参考手册](http://css.doyoe.com/)
@@ -172,15 +210,15 @@
 - [前端小白半年准备，成功进入BAT](https://github.com/brickspert/blog/issues/16)
 - [Python 快速教程](https://www.cnblogs.com/vamei/archive/2012/09/13/2682778.html)
 - [Java 快速教程](https://www.cnblogs.com/vamei/archive/2013/03/31/2991531.html)
+- [前端进阶之道](https://yuchengkai.cn/)
 
 ## Code Style Guide
-
 * [O2前端代码规范文档](https://guide.aotu.io/)
 * [华南城前端编码规范](http://res.csc86.com/)
 
 ## Documation Tools
-- Jekyll
-- Hexo
+- [Jekyll](https://jekyllrb.com/)
+- [Hexo](https://hexo.io/)
 - [VuePress](https://vuepress.vuejs.org/)
 - [Gridsome](https://github.com/gridsome/gridsome)
 - [Docsify](https://docsify.js.org/)
@@ -188,141 +226,24 @@
 - Dawn
 - Docusaurus
 - [Docute](https://github.com/egoist/docute)
-
-
-
-https://github.com/nathantsoi/vue-native-websocket
-
-https://github.com/zimv/websocket-heartbeat-js
-
-
-
-https://github.com/sockjs/sockjs-client
-
-
-
-https://github.com/socketio/socket.io-client
-
-https://github.com/icebob/vue-websocket Simple websocket (socket.io) plugin for Vue.js
-https://github.com/MetinSeylan/Vue-Socket.io
-
-
-
-https://github.com/netty/netty
-
-
-
-https://www.cnblogs.com/mybug/p/11718549.html
-
-https://www.cnblogs.com/tugenhua0707/p/8648044.html
-
-https://www.cnblogs.com/1wen/p/5808276.html
-
-
-
-```
-return {
-	ws: null, // websocket 连接
-	heartBeartInterval: '', // 心跳频率
-}
-
-// 发送心跳
-// 重置心跳
-// 失败重连
-
-methods
-// send
-// close
-// reconnect
-
-events
-// open
-// message
-// error
-// close
-
-
-
-<template>
-  <div>
-<!--    <el-button type="primary" @click="init">Connect</el-button>-->
-    <el-button type="success" @click="sendData">Send</el-button>
-    <el-button type="danger" @click="disconnect">Disconnect</el-button>
-    <el-button type="danger" @click="reconnect">Reconnect</el-button>
-  </div>
-</template>
-
-<script>
-export default {
-  data() {
-    return {
-      // url: 'ws://121.40.165.18:8800',
-      url: 'ws://192.168.101.30:8881/webSocket',
-      socket: null
-    }
-  },
-  created() {
-
-  },
-  beforeDestroyed() {
-  },
-  methods: {
-    init() {
-      this.socket = new WebSocket(this.url)
-
-      // 已连接
-      this.socket.onopen = () => {
-        console.log('open')
-      }
-
-      // 接收
-      this.socket.onmessage = res => {
-        console.log(res)
-      }
-
-      // 报错
-      this.socket.onerror = error => {
-        console.error(error)
-      }
-
-      // 已关闭
-      this.socket.onclose = () => {
-        console.log('closed')
-      }
-    },
-    sendData() {
-      this.socket.send('Data from client')
-    },
-    disconnect() {
-      this.socket.close()
-    },
-    reconnect() {
-     	this.socket.open()
-    }
-  }
-}
-</script>
-
-```
-
-
-
-
+- [eoLinker](https://www.eolinker.com/)
 
 ## Team
 - [美团技术团队](https://tech.meituan.com/)
 - [腾讯AlloyTeam](http://alloyteam.com/)
 - [腾讯CDC](https://cdc.tencent.com/)
 - [腾讯MXD](https://mxd.tencent.com/)
+- [腾讯IMWeb](https://imweb.io/)
 - [ISUX](https://isux.tencent.com/)
 - [阿里巴巴国际UED团队](http://www.aliued.com/)
 - [奇舞团](https://75team.com/)
 - [京东凹凸实验室](https://aotu.io/)
 - [京东 JDC](https://jdc.jd.com/)
-- [淘宝 FED](http://taobaofed.org/)
+- [淘系前端团队](https://fed.taobao.org/)
 - [百度 FEX](http://fex.baidu.com/)
 - [百度 EFE](https://efe.baidu.com/)
 - [有赞技术团队](https://tech.youzan.com/)
+- [字节跳动](https://techblog.toutiao.com/)
 - [奇舞团](https://75.team/)
 
 ## Personal Blogs
@@ -354,23 +275,31 @@ export default {
 
 ## Tools
 - [ProcessOn](https://www.processon.com/)
+- [Draw](https://www.draw.io/)
 - [百度脑图](http://naotu.baidu.com/)
 - [墨刀](https://modao.cc/)
 - [蓝湖](https://lanhuapp.com/)
 - [xiaopiu](https://www.xiaopiu.com/)
 - [Iconfont](https://www.iconfont.cn/)
+- [Font Awesome](https://fontawesome.com/)
+- [IconMoon](https://icomoon.io/)
 - [Ionicons](https://ionicons.com/)
+- [谷歌文档](https://docs.google.com/)
 - [石墨文档](https://shimo.im/)
 - [腾讯文档](https://docs.qq.com/)
+- [语雀](https://www.yuque.com/)
 - [草料二维码](https://cli.im/)
 - [Can I use](https://caniuse.com/)
 - [BootCDN](https://www.bootcdn.cn/)
+- [jsDelivr](https://www.jsdelivr.com/)
+- [cndjs](https://cdnjs.com/)
+- [Staticfile CDN](https://www.staticfile.org/)
 - [贝洽(BearyChat)](https://bearychat.com/)
 - [Teambition](https://www.teambition.com/)
 - [Teamviewer](https://www.teamviewer.com/)
 - [CODING](https://coding.net/) 
 - [Gitlab](https://gitlab.com/)
-- [Gitee](https://gitee.com/)
+- [码云](https://gitee.com/)
 - [禅道](https://www.zentao.net/)
 - [ONES](https://ones.ai/)
 - [今日诗词](https://www.jinrishici.com/)
@@ -381,9 +310,20 @@ export default {
 - Google 翻译
 - 有道词典
 - 有道云笔记
+- [幕布](https://mubu.com/)
 - Gmail
 - [typing.io](https://typing.io/)
 - [keybr](https://www.keybr.com/)
+- Git
+- Postman
+- XMind
+- Typora
+- iTerms2
+- HomeBrew
+- Dash
+- Alfred
+- Google Chrome
+- [git.io](https://git.io/)
 
 ## Web Design
 
@@ -410,8 +350,8 @@ export default {
 - [Notepad++](https://notepad-plus-plus.org/)
 
 ## Code Sharing
-- jsFiddle
-- codeSandBox
+- [jsFiddle](http://jsfiddle.net/)
+- [codeSandBox](https://codesandbox.io/)
 - [codepen](https://codepen.io/)
 - runjs
 - jsbin

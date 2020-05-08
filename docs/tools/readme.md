@@ -16,10 +16,7 @@
 - NTFS
 - Charles
 
-
-
 Notability、幕布、onenote、印象笔记、谷歌文档、腾讯文档、石墨文档、MindNode、Things 3、Paper、Trello、1Password
-
 
 
 - 纸质
@@ -31,7 +28,6 @@ Notability、幕布、onenote、印象笔记、谷歌文档、腾讯文档、石
 - 微信传输助手 + 语音输入
 
 
-
 电脑
 
 手机
@@ -41,7 +37,6 @@ Notability、幕布、onenote、印象笔记、谷歌文档、腾讯文档、石
 ipad
 
 kindle
-
 
 
 康奈尔笔记法
