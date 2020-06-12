@@ -5,7 +5,11 @@
 - 虚拟 DOM
 - 谈谈你对 ssr 的了解
 - 双向绑定的原理
-- 生命周期
+- 生命周期有哪些？作用是什么？
+- 页面第一次加载会触发哪几个钩子？
+- 简述每个周期具体适合哪些场景
+- created 和 mounted 的区别
+- 获取数据在哪个生命周期？
 - VueRouter 用哪些API实现的？改变 hash 参数会引起视图的更新吗？
 - 项目都用 Vue 是吧，说说 Vue 的 MVVM 如何交互的？
 - 知道 Vue 监测变量如何实现的吗？
@@ -25,3 +29,4 @@
 - Vue 和 jQuery 有什么不同
 - Vue 和 React 有什么不同
 - complier，htmlparser，render 函数
+- 在 vue 中修改 element-ui 组件样式的方法有哪些？(>>> 或者 /deep/)

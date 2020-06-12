@@ -23,33 +23,55 @@
 ```
 :::
 - 盒子模型：标准盒子模型、IE 盒子模型
+
 - 媒体查询
-- flex
+
+- flex 布局
+
 - grid
+
 - 阴影
+
 - position 属性
+
 - display
+
 - 单位: px，rem，em
+
 - 多行元素的文本省略号
+
 - 常见颜色：#fff, #000, #f00, #0f0, #00f
+
 - BFC、IFC
+
 - margin 重叠问题
+
 - 层叠上下文
+
 - css 选择器，选择器权重
+
 - css 选择器查找元素的方向(从右往左)，选择器优先级
-- 左边定宽，右边自适应布局；中间定宽，两边自适应布局
+
+- 左边定宽，右边自适应布局；中间定宽，两边自适应布局；左右固定宽度，中间自适应
+
 - 水平、垂直居中
+
 - nth-of-child 和 nth-of-type 的区别
+
 - 画一条 0.5px 的线
+
 - visibility=hidden, opacity=0, display: none
+
 - 倒三角形
   ::: details 点击查看代码
   ``` css
   /* code goes here */
   ```
   :::
+  
 - 画三角形
   ::: details 点击查看代码
+  
   ``` css
   .triangle {
       width: 0;
@@ -60,6 +82,7 @@
   }
   ```
   :::
+  
 - 画圆
   ::: details 点击查看代码
   ```css
@@ -71,11 +94,19 @@
   }
   ```
   :::
+  
 - 画奥运五环
+
+- 用 css 画一个平行四边形 （提示：translate）
+
 - border-box 的作用
+
 - box-sizing
+
 - z-index
-- calc() 函数
+
+- calc 函数介绍及书写时候的注意事项
+
 - 用 css 实现一个硬币旋转的效果
 ::: details 显示代码
 ``` css
@@ -136,6 +167,11 @@
 - css3 新特性
 - 相邻的两个 inline-block 节点为什么会出现间隔，如何解决
 - meta viewport 移动端适配
+- 移动端适配有哪些？（viewport, media query, rem, flex）
+- 移动端有哪些单位？（rem，px）
 - css 实现宽度自适应 100%，宽高 16:9 的矩形
 - 给 DOM 加遮罩层
 - 实现一个百度搜索框
+- transition, animation，以及两者的区别
+- H5 自适应方案
+- 高度塌陷及解决方案

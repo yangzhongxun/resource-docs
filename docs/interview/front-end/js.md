@@ -3,6 +3,8 @@
 ## 基础
 - 基本数据类型
 - 引用数据类型
+- 数组常用方法
+- DOM 操作的 API 有哪些？
 - typeof，instaceof
 - 节流、防抖
 - call，apply，bind
@@ -61,6 +63,8 @@ function Cat() {
 - 绑定事件有哪几种方式？addEventListener有哪些参数？冒泡跟捕获有什么区别？
 - 知道Promise是用来干嘛的吗？Promise底层如何实现的？为什么要用setTimeout去模拟。
 - setTimeout执行机制（eventLoop）
+- 如何理解执行上下文
+- 如何理解作用域链
 - 如何解决异步回调地狱
 
 ```
@@ -68,6 +72,10 @@ promise、generator、async/await
 ```
 
 * js 的各种位置，比如 clientHeight,scrollHeight,offsetHeight ,以及scrollTop, offsetTop,clientTop 的区别？
+* 实现一个 EventEmitter(on, off, emit, once)
+* get 和 post 有什么区别？
+* commonJS 和 ES Module 的区别
+* ajax 中的 option 方法知道吗？
 
 ## 进阶
 - 数组去重
@@ -83,6 +91,7 @@ promise、generator、async/await
 
 :::
 
+- 数组排序
 - 字符串翻转
 - 驼峰和下划线互转
 - Lazyman
@@ -109,7 +118,7 @@ promise、generator、async/await
 
 :::
 
-- 判断是否是数组 Object.prototype.toString.call
+- 判断是否是数组 Object.prototype.toString.call, Array.isArray(), instanceof
 
 - 什么是MVVM，MVC，MVP
 
@@ -220,14 +229,21 @@ function once(func){
 ```
 
 * 如何实现一个私有变量，用getName方法可以访问，不能直接访问
-*  ==和===、以及Object.is的区别
+*  == 和 ===、以及 Object.is 的区别
 * setTimeout、setInterval和requestAnimationFrame之间的区别
 * 如何实现 sleep 的效果
 * Function._proto_(getPrototypeOf) 是什么？
+* 观察者和发布订阅区别
+* 消费者模式
+* 杨辉三角形
+* 顺时针打印矩阵
+* instanceof 实现原理
+* 不用循环生成 1-1000 的数组（Array.from()）
 
 ## ES6
 - let，const
-- symbol
+- symbol 及其应用场景
+- for...of
 - promise
 - 迭代器与生成器 generator
 - 类 class
