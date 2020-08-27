@@ -98,14 +98,12 @@
 - [ES6 入门教程](https://es6.ruanyifeng.com/)
 - [JavaScript 风格指南](https://github.com/airbnb/javascript)
 - [Vue 技术揭幕](https://ustbhuangyi.github.io/vue-analysis/)
-- [Vue 技术内幕](https://ustbhuangyi.github.io/vue-analysis/)
+- [Vue.js 技术内幕](http://hcysun.me/vue-design/zh/)
 
 ## Articles
 - [JS 开发者必知的 33 个概念](https://github.com/leonardomso/33-js-concepts)
 - [深入理解 JavaScript 系列](https://www.cnblogs.com/TomXu/archive/2011/12/15/2288411.html)
 - [Vue.js 源码解析](https://github.com/answershuto/learnVue)
-- [Vue.js 技术揭秘](https://ustbhuangyi.github.io/vue-analysis/)
-- [Vue.js 技术内幕](http://hcysun.me/vue-design/zh/)
 - [前端笔记](https://kb.hcysun.me/#/)
 - [前端工程师手册](https://leohxj.gitbooks.io/front-end-database/interview/skill-path.html)
 - [Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
