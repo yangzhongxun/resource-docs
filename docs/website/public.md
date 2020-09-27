@@ -11,9 +11,7 @@
 
 ## Commity
 - [SegmentFault](https://segmentfault.com/)
-- [Juejin](https://juejin.im/)
-- [Awesomes](https://www.awesomes.cn/)
-- [开发者头条](https://toutiao.io/)
+- [掘金](https://juejin.im/)
 - [知乎](https://zhihu.com/)
 - [微博](https://weibo.com/)
 - [豆瓣](https://douban.com/)
@@ -23,11 +21,9 @@
 - [CNode](https://cnodejs.org/)
 - [React China](http://react-china.org/)
 - [V2EX](https://www.v2ex.com/)
-- [推酷](http://www.tuicool.com/)
 - [开源中国](https://www.oschina.net/)
 - [W3cplus](https://www.w3cplus.com/)
 - [W3ctech](https://w3ctech.com/)
-- [印记中文](https://www.docschina.org/)
 - [鱼塘热榜](https://mo.fish/)
 - [51CTO](https://www.51cto.com/)
 - [InfoQ](https://www.infoq.com/)
