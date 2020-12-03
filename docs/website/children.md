@@ -1,15 +1,4 @@
-## Programming
-- [编程猫](https://www.codemao.cn/)
-- [编玩边学](https://www.codepku.com/)
-- [Code.org](https://code.org/)
-
-## Language
-- [Duolingo](https://www.duolingo.com/)
-
-## 图形
-- [Clipart Library](http://clipart-library.com/)
-
-## Education
+## 教育资源
 - [两小无猜](http://www.lxwc.com.cn/)
 - [小花生](https://www.xiaohuasheng.cn/)
 - [Eduction.com](https://www.education.com/)
@@ -21,3 +10,14 @@
 - [Learning A-Z](https://www.learninga-z.com/)
 - [Reading A-Z](https://www.readinga-z.com/)
 - [Raz-Kids](https://www.raz-kids.com/)
+
+## 编程学习
+- [编程猫](https://www.codemao.cn/)
+- [编玩边学](https://www.codepku.com/)
+- [Code.org](https://code.org/)
+
+## 语言学习
+- [Duolingo](https://www.duolingo.com/)
+
+## 图形
+- [Clipart Library](http://clipart-library.com/)

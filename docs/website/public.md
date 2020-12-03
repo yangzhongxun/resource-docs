@@ -1,17 +1,15 @@
-# 常用网站
+# 网站导航
 
-## Common
+## 精选网站
 - [Google](https://www.google.com/)
 - [GitHub](https://github.com/)
 - [MDN](https://developer.mozilla.org/)
 - [W3Schools](https://www.w3schools.com/)
 - [Stack Overflow](https://stackoverflow.com/)
-- [W3C](https://www.w3.org/)
-- [Apple Developer](https://developer.apple.com/)
 
-## Commity
+## 社区网站
 - [SegmentFault](https://segmentfault.com/)
-- [掘金](https://juejin.im/)
+- [掘金](https://juejin.cn/)
 - [知乎](https://zhihu.com/)
 - [微博](https://weibo.com/)
 - [豆瓣](https://douban.com/)
@@ -21,6 +19,7 @@
 - [CNode](https://cnodejs.org/)
 - [React China](http://react-china.org/)
 - [V2EX](https://www.v2ex.com/)
+- [开发者头条](https://toutiao.io/)
 - [开源中国](https://www.oschina.net/)
 - [W3cplus](https://www.w3cplus.com/)
 - [W3ctech](https://w3ctech.com/)
@@ -32,8 +31,12 @@
 - [面经网](https://v2ee.cn/)
 - [Medium](https://medium.com/)
 - [DEV Community](https://dev.to/)
+- [LearnKu](https://learnku.com/)
+- [W3C](https://www.w3.org/)
+- [Apple Developer](https://developer.apple.com/)
+- [图灵社区](https://www.ituring.com.cn/)
 
-## Learning
+## 学习网站
 - [慕课网](http://www.imooc.com/)
 - [极客学院](http://www.jikexueyuan.com/)
 - [妙味课堂](https://www.miaov.com/)
@@ -56,8 +59,10 @@
 - [Khan Academy](https://www.khanacademy.org/)
 - [Vue School](https://vueschool.io/)
 - [Vue Mastery](https://www.vuemastery.com/)
+- [九章算法](https://www.jiuzhang.com/)
+- [Frontend Masters](https://frontendmasters.com/)
 
-## Practice Code Skills
+## 编程练习
 - [LeetCode](https://leetcode.com/)
 - [LintCode](https://lintcode.com/)
 - [FreeCodeCamp](https://www.freecodecamp.org/)
@@ -83,7 +88,7 @@
 - [TimusOJ](http://acm.timus.ru/)
 - [Virtual Judge](https://vjudge.net/)
 
-## Documents
+## 技术文档
 - [JavaScript - 廖雪峰](https://www.liaoxuefeng.com/wiki/1022910821149312)
 - [Python 教程](https://www.liaoxuefeng.com/wiki/1016959663602400)
 - [Java 教程](https://www.liaoxuefeng.com/wiki/1252599548343744)
@@ -96,7 +101,7 @@
 - [Vue 技术揭幕](https://ustbhuangyi.github.io/vue-analysis/)
 - [Vue.js 技术内幕](http://hcysun.me/vue-design/zh/)
 
-## Articles
+## 文章收藏
 - [JS 开发者必知的 33 个概念](https://github.com/leonardomso/33-js-concepts)
 - [深入理解 JavaScript 系列](https://www.cnblogs.com/TomXu/archive/2011/12/15/2288411.html)
 - [Vue.js 源码解析](https://github.com/answershuto/learnVue)
@@ -108,7 +113,7 @@
 - [Java 快速教程](https://www.cnblogs.com/vamei/archive/2013/03/31/2991531.html)
 - [前端进阶之道](https://yuchengkai.cn/)
 
-## Documation Tools
+## 文档工具
 - [Jekyll](https://jekyllrb.com/)
 - [Hexo](https://hexo.io/)
 - [VuePress](https://vuepress.vuejs.org/)
@@ -119,7 +124,7 @@
 - [Docute](https://github.com/egoist/docute)
 - [eoLinker](https://www.eolinker.com/)
 
-## Team Blogs
+## 团队博客
 - [腾讯AlloyTeam](http://alloyteam.com/)
 - [腾讯IMWeb](https://imweb.io/)
 - [淘系前端团队](https://fed.taobao.org/)
@@ -135,7 +140,7 @@
 - [饿了么 大前端](https://fe.ele.me/)
 - [携程设计委员会](http://ued.ctrip.com/)
 
-## Personal Blogs
+## 个人博客
 - [技术胖](https://jspang.com/)
 - [廖雪峰](https://www.liaoxuefeng.com/)
 - [阮一峰](http://www.ruanyifeng.com/)
@@ -178,8 +183,10 @@
 - [豪情 - 博客园](https://www.cnblogs.com/jikey/)
 - [吕大豹 - 博客园](http://www.cnblogs.com/lvdabao/)
 - [Francis·邱志超](http://qiuzhichao.me/)
+- [Lei Mao](https://leimao.github.io/)
+- [刘悦的技术博客](https://v3u.cn/)
 
-## Tools
+## 常用工具
 - [ProcessOn](https://www.processon.com/)
 - [Draw](https://www.draw.io/)
 - [百度脑图](http://naotu.baidu.com/)
@@ -247,17 +254,28 @@
 - [印记中文](https://www.docschina.org/)
 - [Editor.md](https://pandao.github.io/editor.md/)
 - [DevDocs](http://devdocs.io/)
+- [MacRumors](https://www.macrumors.com/)
+- [GSMArena](https://www.gsmarena.com/)
+- [Hanoi](http://www.hannuota.cn/)
 
-## Web Design
+## 英语词典
+- [Oxford Learner's Dictionary](https://www.oxfordlearnersdictionaries.com/)
+- [Longman Dictionary](https://www.ldoceonline.com/)
+- [Collins Online Dictionary](https://www.collinsdictionary.com/)
+- [Merriam-Webster](https://www.merriam-webster.com/)
+- [Macmillan Dictionary](https://www.macmillandictionary.com/)
+- [Cambridge Dictionary](https://dictionary.cambridge.org/)
+- [Merriam-Webster's Learner's Dictionary](https://www.learnersdictionary.com/)
 
+## 设计资源
 * [Behance](https://www.behance.net/)
 * [Dribbble](https://dribbble.com/)
 * [花瓣](https://huaban.com/)
-* [站酷(ZCOOL)](https://www.zcool.com.cn/)
+* [站酷](https://www.zcool.com.cn/)
 * [爱果果](https://www.iguoguo.net/)
 * [优设网](http://www.uisdc.com/)
 
-## Regular Expression
+## 正则表达式
 - [regex101](https://regex101.com/)
 - [RegExr](https://regexr.com/)
 - [RegexOne](https://regexone.com/)
@@ -265,20 +283,20 @@
 - [Regexper](https://regexper.com/)
 - [正则大全](https://any86.github.io/any-rule/)
 
-## IDE & Editor
+## 开发工具
 - [WebStorm](https://www.jetbrains.com/webstorm/)
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Sublime Text](https://www.sublimetext.com/)
 - [Atom](https://atom.io/)
 
-## Code Sharing
+## 在线工具
 - [jsFiddle](http://jsfiddle.net/)
 - [codeSandBox](https://codesandbox.io/)
 - [Codepen](https://codepen.io/)
 - [jsbin](https://jsbin.com/)
 - [Show Me The Code](https://www.icode.live/)
 
-## Cloud Service
+## 云服务
 - 阿里云
 - 腾讯云
 - 百度云
@@ -292,18 +310,17 @@
 - 谷歌云
 - 搬瓦工
 
-## Jobs
-- [拉勾](https://www.lagou.com/)
+## 招聘求职
+- [拉勾网](https://www.lagou.com/)
 - [boss 直聘](https://www.zhipin.com/)
 - [LinkedIn](https://www.linkedin.com/)
 - [冷熊简历](http://cv.ftqq.com/)
 
 ## 租房买房
-
 - [居理新房](https://www.julive.com/)
+- [贝壳找房](https://sz.ke.com/)
 
-## Programming training
-
+## 编程培训
 - [传智播客](http://www.itcast.cn/)
 - [黑马程序员](http://www.itheima.com/)
 - [尚学堂](https://www.bjsxt.com/)

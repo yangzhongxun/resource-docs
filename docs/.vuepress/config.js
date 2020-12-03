@@ -24,11 +24,10 @@ module.exports = {
     lastUpdated: '上次更新',
     themeConfig: {
         nav: [
-            { text: '面试', link: '/interview/front-end/html' },
-            { text: '网站', link: '/website/public' },
-            { text: '代码片段', link: '/snippet/js' },
-            { text: '书籍', link: '/books/js' },
-            { text: '电影', link: '/movies/movie' }
+            { text: '面试题目', link: '/interview/front-end/html' },
+            { text: '网站导航', link: '/website/public' },
+            { text: '书籍推荐', link: '/books/programming' },
+            { text: '电影推荐', link: '/movies/movie' }
         ],
         sidebar: {
             '/interview/': [
@@ -73,9 +72,9 @@ module.exports = {
                         'others/performance-optimization',
                         'others/compatible',
                         'others/git',
+                        'others/handwritten-code',
                         'others/interview-experience',
-                        'others/open-questions',
-                        'others/handwritten-code'
+                        'others/open-questions'
                     ]
                 }
             ],
@@ -96,22 +95,10 @@ module.exports = {
                     collapsable: false
                 }
             ],
-            '/snippet/': [
-                {
-                    title: 'JavaScript',
-                    path: 'js',
-                    collapsable: false
-                },
-                {
-                    title: 'CSS',
-                    path: 'css',
-                    collapsable: false
-                }
-            ],
             '/books/': [
                 {
-                    title: 'JavaScript',
-                    path: 'js',
+                    title: '编程',
+                    path: 'programming',
                     collapsable: false
                 },
                 {

@@ -94,10 +94,12 @@
   }
   ```
   :::
+
+- 画半圆
   
 - 画奥运五环
 
-- 用 css 画一个平行四边形 （提示：translate）
+- 画平行四边形 （提示：translate）
 
 - border-box 的作用
 
@@ -105,10 +107,12 @@
 
 - z-index
 
+- 文字溢出
+
 - calc 函数介绍及书写时候的注意事项
 
 - 用 css 实现一个硬币旋转的效果
-::: details 显示代码
+::: details 点击查看代码
 ``` css
 #euro {
   width: 150px;
@@ -157,21 +161,52 @@
 ```
 :::
 - 经典三栏布局怎么实现
+
 - 双飞翼布局，圣杯布局
+
 - 三栏布局，左右定宽，中间自适应
+
 - 居中可以使用哪几个属性？不定宽度与定宽度如何居中？
+
 - 项目用 rem 布局吧？rem 如何做自适应的？
+
 - rem 布局的优缺点
+
 - 响应式布局
+
 - css 预处理器
+
 - css3 新特性
+
 - 相邻的两个 inline-block 节点为什么会出现间隔，如何解决
+
 - meta viewport 移动端适配
+
 - 移动端适配有哪些？（viewport, media query, rem, flex）
+
 - 移动端有哪些单位？（rem，px）
+
 - css 实现宽度自适应 100%，宽高 16:9 的矩形
+
 - 给 DOM 加遮罩层
+
 - 实现一个百度搜索框
+
 - transition, animation，以及两者的区别
+
 - H5 自适应方案
+
 - 高度塌陷及解决方案
+
+- css禁止用户选择
+```css
+body {
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+```
+

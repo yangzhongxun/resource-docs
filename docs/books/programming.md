@@ -21,8 +21,6 @@
 - Head First JavaScript
 - 你不知道的 JavaScript
 - 高性能 JavaScript
-
-## JavaScript 进阶
 - 深入理解 JavaScript 特性
 - 了不起的 JavaScript 工程师：从前端到全端高级进阶
 
@@ -99,7 +97,7 @@
 - 程序员代码面试指南：IT名企算法与数据结构题目最优解
 - 程序员面试金典（第5版）
 
-## 编程之外
+## 软技能
 - 黑客与画家
 - 数学之美
 - 世界是数字的
