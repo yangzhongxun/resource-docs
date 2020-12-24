@@ -193,10 +193,6 @@
 ## 常用工具
 - [ProcessOn](https://www.processon.com/)
 - [Draw](https://www.draw.io/)
-- [Iconfont](https://www.iconfont.cn/)
-- [Font Awesome](https://fontawesome.com/)
-- [IconMoon](https://icomoon.io/)
-- [Ionicons](https://ionicons.com/)
 - [草料二维码](https://cli.im/)
 - [Can I use](https://caniuse.com/)
 - [BootCDN](https://www.bootcdn.cn/)
@@ -218,7 +214,6 @@
 - [Swagger](https://swagger.io/)
 - [Fiddler](https://www.telerik.com/fiddler)
 - [Charles](https://www.charlesproxy.com/)
-- [Google 翻译](https://translate.google.com/?hl=zh-CN)
 - [有道词典](https://youdao.com/)
 - [有道云笔记](http://note.youdao.com/)
 - [新浪短网址](http://sina.lt/)
@@ -231,9 +226,7 @@
 - [HomeBrew](https://brew.sh/)
 - [Dash](https://www.dash.org/)
 - [Alfred](https://www.alfredapp.com/)
-- [Google Chrome](https://www.google.com/chrome/)
 - [git.io](https://git.io/)
-- [马克飞象](https://maxiang.io/)
 - [Google URL Shortener](https://goo.gl/)
 - [JSON Editor Online](http://jsoneditoronline.org/)
 - [Diff Checker](https://www.diffchecker.com/)
@@ -254,6 +247,13 @@
 - [APK Downloader - evozi](https://apps.evozi.com/apk-downloader/)
 - [Carbon](https://carbon.now.sh/) 代码截图生成工具
 
+## 浏览器
+- [Google Chrome](https://www.google.com/chrome/)
+- [Microsoft Edge](https://www.microsoft.com/en-us/edge)
+- [Apple Safari](https://www.apple.com/safari/)
+- [Firefox](https://www.mozilla.org/en-US/firefox/)
+- [Opera](https://www.opera.com/)
+
 ## 在线文档
 - [谷歌文档](https://docs.google.com/)
 - [石墨文档](https://shimo.im/)
@@ -273,7 +273,13 @@
 - [百度脑图](http://naotu.baidu.com/)
 - [幕布](https://mubu.com/)
 
-## 英语词典
+## 字体图标
+- [Iconfont](https://www.iconfont.cn/)
+- [Font Awesome](https://fontawesome.com/)
+- [IconMoon](https://icomoon.io/)
+- [Ionicons](https://ionicons.com/)
+
+## 词典翻译
 - [Oxford Learner's Dictionary](https://www.oxfordlearnersdictionaries.com/)
 - [Longman Dictionary](https://www.ldoceonline.com/)
 - [Collins Online Dictionary](https://www.collinsdictionary.com/)
@@ -281,6 +287,8 @@
 - [Macmillan Dictionary](https://www.macmillandictionary.com/)
 - [Cambridge Dictionary](https://dictionary.cambridge.org/)
 - [Merriam-Webster's Learner's Dictionary](https://www.learnersdictionary.com/)
+- [Google翻译](https://translate.google.com/)
+- [Google翻译 - 中文版](https://translate.google.cn/)
 
 ## 设计资源
 - [Behance](https://www.behance.net/)
@@ -289,6 +297,7 @@
 - [站酷](https://www.zcool.com.cn/)
 - [爱果果](https://www.iguoguo.net/)
 - [优设网](http://www.uisdc.com/)
+- [Pinterest](https://www.pinterest.com/)
 
 ## 正则表达式
 - [regex101](https://regex101.com/)
@@ -313,6 +322,11 @@
 - [Codepen](https://codepen.io/)
 - [jsbin](https://jsbin.com/)
 - [Show Me The Code](https://www.icode.live/)
+
+## Markdown
+- [马克飞象](https://maxiang.io/)
+- [mdnice](https://www.mdnice.com/)
+- [Md2All](http://md.aclickall.com/)
 
 ## 服务器
 - [阿里云](https://www.aliyun.com/?)
