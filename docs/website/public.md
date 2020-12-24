@@ -4,6 +4,7 @@
 - [Google](https://www.google.com/)
 - [GitHub](https://github.com/)
 - [MDN](https://developer.mozilla.org/)
+- [MSDN](https://docs.microsoft.com/zh-cn/)
 - [W3Schools](https://www.w3schools.com/)
 - [Stack Overflow](https://stackoverflow.com/)
 
@@ -35,6 +36,7 @@
 - [W3C](https://www.w3.org/)
 - [Apple Developer](https://developer.apple.com/)
 - [图灵社区](https://www.ituring.com.cn/)
+- [36氪](https://36kr.com/)
 
 ## 学习网站
 - [慕课网](http://www.imooc.com/)
@@ -90,6 +92,8 @@
 
 ## 技术文档
 - [JavaScript - 廖雪峰](https://www.liaoxuefeng.com/wiki/1022910821149312)
+- [现代 JavaScript 教程 - 英文版](https://javascript.info/)
+- [现代 JavaScript 教程 - 中文版](https://zh.javascript.info/)
 - [Python 教程](https://www.liaoxuefeng.com/wiki/1016959663602400)
 - [Java 教程](https://www.liaoxuefeng.com/wiki/1252599548343744)
 - [SQL 教程](https://www.liaoxuefeng.com/wiki/1177760294764384)
@@ -189,18 +193,10 @@
 ## 常用工具
 - [ProcessOn](https://www.processon.com/)
 - [Draw](https://www.draw.io/)
-- [百度脑图](http://naotu.baidu.com/)
-- [墨刀](https://modao.cc/)
-- [蓝湖](https://lanhuapp.com/)
-- [xiaopiu](https://www.xiaopiu.com/)
 - [Iconfont](https://www.iconfont.cn/)
 - [Font Awesome](https://fontawesome.com/)
 - [IconMoon](https://icomoon.io/)
 - [Ionicons](https://ionicons.com/)
-- [谷歌文档](https://docs.google.com/)
-- [石墨文档](https://shimo.im/)
-- [腾讯文档](https://docs.qq.com/)
-- [语雀](https://www.yuque.com/)
 - [草料二维码](https://cli.im/)
 - [Can I use](https://caniuse.com/)
 - [BootCDN](https://www.bootcdn.cn/)
@@ -226,12 +222,10 @@
 - [有道词典](https://youdao.com/)
 - [有道云笔记](http://note.youdao.com/)
 - [新浪短网址](http://sina.lt/)
-- [幕布](https://mubu.com/)
 - [Gmail](https://www.google.com/gmail/)
 - [typing.io](https://typing.io/)
 - [keybr](https://www.keybr.com/)
 - [Postman](https://www.postman.com/)
-- [XMind](https://www.xmind.net/)
 - [Typora](https://typora.io/)
 - [iTerm2](https://www.iterm2.com/)
 - [HomeBrew](https://brew.sh/)
@@ -245,7 +239,6 @@
 - [Diff Checker](https://www.diffchecker.com/)
 - [Text Compare](https://text-compare.com/)
 - [HTML Preview](http://htmlpreview.github.io/)
-- [Mockplus](https://www.mockplus.cn/)
 - [FIS3](http://fis.baidu.com/)
 - [NEC](http://nec.netease.com/)
 - [JSON2Excel](http://j2e.kpoda.com/)
@@ -257,6 +250,28 @@
 - [MacRumors](https://www.macrumors.com/)
 - [GSMArena](https://www.gsmarena.com/)
 - [Hanoi](http://www.hannuota.cn/)
+- [APK Downloader - APKCombo](https://apkcombo.com/apk-downloader/)
+- [APK Downloader - evozi](https://apps.evozi.com/apk-downloader/)
+- [Carbon](https://carbon.now.sh/) 代码截图生成工具
+
+## 在线文档
+- [谷歌文档](https://docs.google.com/)
+- [石墨文档](https://shimo.im/)
+- [腾讯文档](https://docs.qq.com/)
+- [语雀](https://www.yuque.com/)
+
+## 原型工具
+- [Figma](https://www.figma.com/)
+- [Axure](https://www.axure.com/)
+- [蓝湖](https://lanhuapp.com/)
+- [墨刀](https://modao.cc/)
+- [Mockplus](https://www.mockplus.cn/)
+- [xiaopiu](https://www.xiaopiu.com/)
+
+## 思维导图
+- [XMind](https://www.xmind.net/)
+- [百度脑图](http://naotu.baidu.com/)
+- [幕布](https://mubu.com/)
 
 ## 英语词典
 - [Oxford Learner's Dictionary](https://www.oxfordlearnersdictionaries.com/)
@@ -268,12 +283,12 @@
 - [Merriam-Webster's Learner's Dictionary](https://www.learnersdictionary.com/)
 
 ## 设计资源
-* [Behance](https://www.behance.net/)
-* [Dribbble](https://dribbble.com/)
-* [花瓣](https://huaban.com/)
-* [站酷](https://www.zcool.com.cn/)
-* [爱果果](https://www.iguoguo.net/)
-* [优设网](http://www.uisdc.com/)
+- [Behance](https://www.behance.net/)
+- [Dribbble](https://dribbble.com/)
+- [花瓣](https://huaban.com/)
+- [站酷](https://www.zcool.com.cn/)
+- [爱果果](https://www.iguoguo.net/)
+- [优设网](http://www.uisdc.com/)
 
 ## 正则表达式
 - [regex101](https://regex101.com/)
@@ -288,27 +303,30 @@
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Sublime Text](https://www.sublimetext.com/)
 - [Atom](https://atom.io/)
+- [Notepad++](https://notepad-plus-plus.org/)
+- [Vim](http://www.vim.org/)
+- [Emacs](https://www.gnu.org/software/emacs/)
 
-## 在线工具
+## 在线编辑器
 - [jsFiddle](http://jsfiddle.net/)
 - [codeSandBox](https://codesandbox.io/)
 - [Codepen](https://codepen.io/)
 - [jsbin](https://jsbin.com/)
 - [Show Me The Code](https://www.icode.live/)
 
-## 云服务
-- 阿里云
-- 腾讯云
-- 百度云
-- 网易云
-- 七牛云
-- 又拍云
-- DigitalOcean
-- Vultr
-- Linode
-- 亚马逊云
-- 谷歌云
-- 搬瓦工
+## 服务器
+- [阿里云](https://www.aliyun.com/?)
+- [腾讯云](https://cloud.tencent.com/)
+- [百度云](https://cloud.baidu.com/)
+- [七牛云](https://www.qiniu.com/)
+- [又拍云](https://www.upyun.com/)
+- [DigitalOcean](https://www.digitalocean.com/)
+- [UpCloud](https://upcloud.com/)
+- [Vultr](https://www.vultr.com/)
+- [Linode](https://www.linode.com/)
+- [亚马逊云](https://aws.amazon.com/)
+- [谷歌云](https://cloud.google.com/)
+- [搬瓦工](https://bandwagonhost.com/)
 
 ## 招聘求职
 - [拉勾网](https://www.lagou.com/)
