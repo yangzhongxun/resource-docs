@@ -1,6 +1,6 @@
 module.exports = {
-    title: '前端资源汇总',
-    description: '前端资源汇总',
+    title: '编程资源汇总',
+    description: '编程资源汇总',
     base: '/resource-docs/',
     // 假定是 GitHub. 同时也可以是一个完整的 GitLab URL
     repo: 'yangzhongxun/resource-docs',
@@ -24,10 +24,23 @@ module.exports = {
     lastUpdated: '上次更新',
     themeConfig: {
         nav: [
-            { text: '面试题目', link: '/interview/front-end/html' },
-            { text: '网站导航', link: '/website/public' },
+            { text: '算法', link: '/algorithm/' },
+            { text: '计算机基础', link: '/computer-basic/' },
+            { text: '前端题库', link: '/interview/front-end/html' },
+            { text: '后端学习', link: '/backend/' },
+            { text: 'Java', link: '/python/' },
+            { text: 'Python', link: '/python/' },
+            { text: 'SQL', link: '/backend/' },
+            { text: 'Git', link: '/backend/' },
+            { text: '网站导航', link: '/website/work' },
+            { text: '工具软件', link: '/tools/tools' },
             { text: '书籍推荐', link: '/books/programming' },
-            { text: '电影推荐', link: '/movies/movie' }
+            { text: '电影推荐', link: '/movies/movie' },
+            { text: '个人简历', link: '/resume' },
+            { text: 'github', link: '/resume' },
+            { text: 'blog', link: '/resume' },
+            { text: 'email', link: '/resume' },
+            { text: 'project', link: '/resume' }
         ],
         sidebar: {
             '/interview/': [
@@ -80,8 +93,13 @@ module.exports = {
             ],
             '/website/': [
                 {
-                    title: '常用网站',
-                    path: 'public',
+                    title: '工作学习',
+                    path: 'work',
+                    collapsable: false
+                },
+                {
+                    title: '生活常用',
+                    path: 'life',
                     collapsable: false
                 },
                 {
@@ -92,6 +110,18 @@ module.exports = {
                 {
                     title: 'Children',
                     path: 'children',
+                    collapsable: false
+                },
+                {
+                    title: '购物网站',
+                    path: 'shopping',
+                    collapsable: false
+                }
+            ],
+            '/tools/': [
+                {
+                    title: '常用工具',
+                    path: 'tools',
                     collapsable: false
                 }
             ],

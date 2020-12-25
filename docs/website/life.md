@@ -1,0 +1,20 @@
+## 社区网站
+- Twitter
+- Facebook
+- Instagram
+- [36氪](https://36kr.com/)
+- Medium
+- [虎嗅](https://www.huxiu.com/)
+- [简书](https://www.jianshu.com/)
+- [知乎](https://zhihu.com/)
+- [微博](https://weibo.com/)
+- [豆瓣](https://douban.com/)
+- [IMDb](https://www.imdb.com/)
+- [V2EX](https://www.v2ex.com/)
+- [鱼塘热榜](https://mo.fish/)
+- [InfoQ](https://www.infoq.com/)
+- [不死鸟](https://iao.su/)
+
+## 租房买房
+- [居理新房](https://www.julive.com/)
+- [贝壳找房](https://sz.ke.com/)

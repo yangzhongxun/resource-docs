@@ -8,35 +8,26 @@
 - [W3Schools](https://www.w3schools.com/)
 - [Stack Overflow](https://stackoverflow.com/)
 
-## 社区网站
+## 技术社区
 - [SegmentFault](https://segmentfault.com/)
 - [掘金](https://juejin.cn/)
-- [知乎](https://zhihu.com/)
-- [微博](https://weibo.com/)
-- [豆瓣](https://douban.com/)
 - [码云](https://gitee.com/)
 - [博客园](https://www.cnblogs.com/)
 - [CSDN](https://www.csdn.net/)
 - [CNode](https://cnodejs.org/)
 - [React China](http://react-china.org/)
-- [V2EX](https://www.v2ex.com/)
 - [开发者头条](https://toutiao.io/)
 - [开源中国](https://www.oschina.net/)
 - [W3cplus](https://www.w3cplus.com/)
 - [W3ctech](https://w3ctech.com/)
-- [鱼塘热榜](https://mo.fish/)
 - [51CTO](https://www.51cto.com/)
-- [InfoQ](https://www.infoq.com/)
-- [简书](https://www.jianshu.com/)
-- [虎嗅](https://www.huxiu.com/)
 - [面经网](https://v2ee.cn/)
-- [Medium](https://medium.com/)
 - [DEV Community](https://dev.to/)
 - [LearnKu](https://learnku.com/)
 - [W3C](https://www.w3.org/)
 - [Apple Developer](https://developer.apple.com/)
 - [图灵社区](https://www.ituring.com.cn/)
-- [36氪](https://36kr.com/)
+- [程序员客栈](https://www.proginn.com/)
 
 ## 学习网站
 - [慕课网](http://www.imooc.com/)
@@ -63,6 +54,8 @@
 - [Vue Mastery](https://www.vuemastery.com/)
 - [九章算法](https://www.jiuzhang.com/)
 - [Frontend Masters](https://frontendmasters.com/)
+- [Best of JavaScript](http://bestof.js.org/)
+- [AlgoExpert](https://www.algoexpert.io/)
 
 ## 编程练习
 - [LeetCode](https://leetcode.com/)
@@ -70,6 +63,7 @@
 - [FreeCodeCamp](https://www.freecodecamp.org/)
 - [Codewars](https://www.codewars.com/)
 - [牛客网](http://newcoder.com/)
+- [猿圈](https://www.oxcoder.com/)
 - [跬步客](https://www.kuibuke.com/)
 - [Topcoder](https://www.topcoder.com/)
 - [hihoCoder](https://hihocoder.com/)
@@ -80,7 +74,6 @@
 - [CodeEval](https://www.codeeval.com/)
 - [Glassdoor](https://www.glassdoor.com/)
 - [Codility](https://codility.com/)
-- [bestofjs](http://bestof.js.org/)
 - [SitePoint](https://www.sitepoint.com/)
 - [ZOJ](http://acm.zju.edu.cn/)
 - [POJ](http://poj.org/)
@@ -89,6 +82,31 @@
 - [UVA](https://uva.onlinejudge.org/)
 - [TimusOJ](http://acm.timus.ru/)
 - [Virtual Judge](https://vjudge.net/)
+- [洛谷](https://www.luogu.com.cn/)
+- [Brilliant](www.brilliant.org)
+- https://ocw.mit.edu
+- https://online.standford.edu
+- [PTA - 程序设计类实验辅助教学平台](https://pintia.cn/)
+- https://www.tutorialspoint.com/
+- https://www.productplan.com/
+- https://www.toptal.com/	https://www.toptal.com/developers/sorting-algorithms
+- https://www.studytonight.com/
+- highscalability.com
+- code chef
+- Programmingbydoing
+- http://ife.baidu.com
+- [AcCoder](http://atcoder.jp)
+- Timus Online Judge：https://acm.timus.ru/
+- [Codecademy](https://www.codecademy.com/)
+- [CodeHS](https://codehs.com/)
+- [HackerEarth](https://www.hackerearth.com/)
+- [Coderbyte](https://coderbyte.com/)
+- [CodeSignal](https://codesignal.com/)
+- [CodingGame](https://www.codingame.com/)
+- [赛码网](http://www.acmcoder.com)
+- [USACO](http://www.usaco.org/)
+- https://www.mathworks.com/matlabcentral/cody/
+- [Leetcode solutions](https://leetcode-solution-leetcode-pp.gitbook.io/leetcode-solution/)
 
 ## 技术文档
 - [JavaScript - 廖雪峰](https://www.liaoxuefeng.com/wiki/1022910821149312)
@@ -104,6 +122,9 @@
 - [JavaScript 风格指南](https://github.com/airbnb/javascript)
 - [Vue 技术揭幕](https://ustbhuangyi.github.io/vue-analysis/)
 - [Vue.js 技术内幕](http://hcysun.me/vue-design/zh/)
+- [CS-Notes](http://www.cyc2018.xyz/)
+- [labuladong的算法小抄](https://labuladong.gitbook.io/algo/)
+- [力扣(lucifer)](https://leetcode-solution.cn/)
 
 ## 文章收藏
 - [JS 开发者必知的 33 个概念](https://github.com/leonardomso/33-js-concepts)
@@ -115,18 +136,16 @@
 - [前端小白半年准备，成功进入BAT](https://github.com/brickspert/blog/issues/16)
 - [Python 快速教程](https://www.cnblogs.com/vamei/archive/2012/09/13/2682778.html)
 - [Java 快速教程](https://www.cnblogs.com/vamei/archive/2013/03/31/2991531.html)
-- [前端进阶之道](https://yuchengkai.cn/)
 
-## 文档工具
-- [Jekyll](https://jekyllrb.com/)
-- [Hexo](https://hexo.io/)
-- [VuePress](https://vuepress.vuejs.org/)
-- [Gridsome](https://github.com/gridsome/gridsome)
-- [Docsify](https://docsify.js.org/)
-- [GitBook](https://www.gitbook.com/)
-- [Docusaurus](https://docusaurus.io/)
-- [Docute](https://github.com/egoist/docute)
-- [eoLinker](https://www.eolinker.com/)
+## 面试题库
+
+- [前端面试与进阶指南](https://www.cxymsg.com/)
+- [前端进阶之道](https://yuchengkai.cn/)
+- [大前端面试题目](http://bigerfe.com/)
+- [木易杨前端进阶](https://muyiy.cn/)
+- [大厂面试每日一题](https://q.shanyue.tech/)
+- [大前端面试宝典 - 图解前端](https://lucifer.ren/fe-interview/)
+- [面经网](https://v2ee.cn/)
 
 ## 团队博客
 - [腾讯AlloyTeam](http://alloyteam.com/)
@@ -145,10 +164,10 @@
 - [携程设计委员会](http://ued.ctrip.com/)
 
 ## 个人博客
-- [技术胖](https://jspang.com/)
 - [廖雪峰](https://www.liaoxuefeng.com/)
 - [阮一峰](http://www.ruanyifeng.com/)
 - [张鑫旭](https://www.zhangxinxu.com/)
+- [技术胖](https://jspang.com/)
 - [小胡子哥](https://www.barretlee.com/)
 - [这波能反杀](https://www.jianshu.com/u/10ae59f49b13)
 - [前端小智](https://segmentfault.com/u/minnanitkong)
@@ -162,6 +181,7 @@
 - [纯洁的微笑](http://www.ityouknow.com/)
 - [HcySunYang](http://hcysun.me/)
 - [lucifer](https://lucifer.ren/)
+- [lucifer的网络博客](https://lucifer.ren/blog/)
 - [John Resig](https://johnresig.com/)
 - [Java 全栈知识体系](https://www.pdai.tech/)
 - [Aaron](https://guanpengchn.github.io/)
@@ -189,106 +209,13 @@
 - [Francis·邱志超](http://qiuzhichao.me/)
 - [Lei Mao](https://leimao.github.io/)
 - [刘悦的技术博客](https://v3u.cn/)
-
-## 常用工具
-- [ProcessOn](https://www.processon.com/)
-- [Draw](https://www.draw.io/)
-- [草料二维码](https://cli.im/)
-- [Can I use](https://caniuse.com/)
-- [BootCDN](https://www.bootcdn.cn/)
-- [jsDelivr](https://www.jsdelivr.com/)
-- [cndjs](https://cdnjs.com/)
-- [unpkg](https://unpkg.com/)
-- [Staticfile CDN](https://www.staticfile.org/)
-- [贝洽(BearyChat)](https://bearychat.com/)
-- [Teambition](https://www.teambition.com/)
-- [Zoom](https://zoom.us/)
-- [Teamviewer](https://www.teamviewer.com/)
-- [CODING](https://coding.net/) 
-- [Gitlab](https://gitlab.com/)
-- [码云](https://gitee.com/)
-- [禅道](https://www.zentao.net/)
-- [ONES](https://ones.ai/)
-- [今日诗词](https://www.jinrishici.com/)
-- [Unsplash](https://unsplash.com/)
-- [Swagger](https://swagger.io/)
-- [Fiddler](https://www.telerik.com/fiddler)
-- [Charles](https://www.charlesproxy.com/)
-- [有道词典](https://youdao.com/)
-- [有道云笔记](http://note.youdao.com/)
-- [新浪短网址](http://sina.lt/)
-- [Gmail](https://www.google.com/gmail/)
-- [typing.io](https://typing.io/)
-- [keybr](https://www.keybr.com/)
-- [Postman](https://www.postman.com/)
-- [Typora](https://typora.io/)
-- [iTerm2](https://www.iterm2.com/)
-- [HomeBrew](https://brew.sh/)
-- [Dash](https://www.dash.org/)
-- [Alfred](https://www.alfredapp.com/)
-- [git.io](https://git.io/)
-- [Google URL Shortener](https://goo.gl/)
-- [JSON Editor Online](http://jsoneditoronline.org/)
-- [Diff Checker](https://www.diffchecker.com/)
-- [Text Compare](https://text-compare.com/)
-- [HTML Preview](http://htmlpreview.github.io/)
-- [FIS3](http://fis.baidu.com/)
-- [NEC](http://nec.netease.com/)
-- [JSON2Excel](http://j2e.kpoda.com/)
-- [看云](https://www.kancloud.cn/)
-- [ShowDoc](https://www.showdoc.cc/)
-- [印记中文](https://www.docschina.org/)
-- [Editor.md](https://pandao.github.io/editor.md/)
-- [DevDocs](http://devdocs.io/)
-- [MacRumors](https://www.macrumors.com/)
-- [GSMArena](https://www.gsmarena.com/)
-- [Hanoi](http://www.hannuota.cn/)
-- [APK Downloader - APKCombo](https://apkcombo.com/apk-downloader/)
-- [APK Downloader - evozi](https://apps.evozi.com/apk-downloader/)
-- [Carbon](https://carbon.now.sh/) 代码截图生成工具
-
-## 浏览器
-- [Google Chrome](https://www.google.com/chrome/)
-- [Microsoft Edge](https://www.microsoft.com/en-us/edge)
-- [Apple Safari](https://www.apple.com/safari/)
-- [Firefox](https://www.mozilla.org/en-US/firefox/)
-- [Opera](https://www.opera.com/)
-
-## 在线文档
-- [谷歌文档](https://docs.google.com/)
-- [石墨文档](https://shimo.im/)
-- [腾讯文档](https://docs.qq.com/)
-- [语雀](https://www.yuque.com/)
-
-## 原型工具
-- [Figma](https://www.figma.com/)
-- [Axure](https://www.axure.com/)
-- [蓝湖](https://lanhuapp.com/)
-- [墨刀](https://modao.cc/)
-- [Mockplus](https://www.mockplus.cn/)
-- [xiaopiu](https://www.xiaopiu.com/)
-
-## 思维导图
-- [XMind](https://www.xmind.net/)
-- [百度脑图](http://naotu.baidu.com/)
-- [幕布](https://mubu.com/)
+- [冰霜之地](https://halfrost.com/)
 
 ## 字体图标
 - [Iconfont](https://www.iconfont.cn/)
 - [Font Awesome](https://fontawesome.com/)
 - [IconMoon](https://icomoon.io/)
 - [Ionicons](https://ionicons.com/)
-
-## 词典翻译
-- [Oxford Learner's Dictionary](https://www.oxfordlearnersdictionaries.com/)
-- [Longman Dictionary](https://www.ldoceonline.com/)
-- [Collins Online Dictionary](https://www.collinsdictionary.com/)
-- [Merriam-Webster](https://www.merriam-webster.com/)
-- [Macmillan Dictionary](https://www.macmillandictionary.com/)
-- [Cambridge Dictionary](https://dictionary.cambridge.org/)
-- [Merriam-Webster's Learner's Dictionary](https://www.learnersdictionary.com/)
-- [Google翻译](https://translate.google.com/)
-- [Google翻译 - 中文版](https://translate.google.cn/)
 
 ## 设计资源
 - [Behance](https://www.behance.net/)
@@ -306,27 +233,6 @@
 - [Regular-Expressions.info](https://www.regular-expressions.info/)
 - [Regexper](https://regexper.com/)
 - [正则大全](https://any86.github.io/any-rule/)
-
-## 开发工具
-- [WebStorm](https://www.jetbrains.com/webstorm/)
-- [Visual Studio Code](https://code.visualstudio.com/)
-- [Sublime Text](https://www.sublimetext.com/)
-- [Atom](https://atom.io/)
-- [Notepad++](https://notepad-plus-plus.org/)
-- [Vim](http://www.vim.org/)
-- [Emacs](https://www.gnu.org/software/emacs/)
-
-## 在线编辑器
-- [jsFiddle](http://jsfiddle.net/)
-- [codeSandBox](https://codesandbox.io/)
-- [Codepen](https://codepen.io/)
-- [jsbin](https://jsbin.com/)
-- [Show Me The Code](https://www.icode.live/)
-
-## Markdown
-- [马克飞象](https://maxiang.io/)
-- [mdnice](https://www.mdnice.com/)
-- [Md2All](http://md.aclickall.com/)
 
 ## 服务器
 - [阿里云](https://www.aliyun.com/?)
@@ -348,15 +254,12 @@
 - [LinkedIn](https://www.linkedin.com/)
 - [冷熊简历](http://cv.ftqq.com/)
 
-## 租房买房
-- [居理新房](https://www.julive.com/)
-- [贝壳找房](https://sz.ke.com/)
-
 ## 编程培训
 - [传智播客](http://www.itcast.cn/)
 - [黑马程序员](http://www.itheima.com/)
 - [尚学堂](https://www.bjsxt.com/)
 - [京程一灯](https://www.yidengxuetang.com/)
+- [潭州教育](https://www.tanzhouedu.com/)
 - [潭州课堂](https://www.shiguangkey.com/)
 - [千锋教育](http://www.mobiletrain.org/)
 - [达内](http://www.tedu.cn/)
@@ -366,5 +269,4 @@
 - [不凡学院](https://www.bufanui.com/)
 - [优就业](http://www.ujiuye.com/)
 - [珠峰培训](http://www.zhufengpeixun.cn/)
-- [渡一教育](http://www.duyiedu.com/)
 - [饥人谷](https://jirengu.com/) [写代码啦](https://xiedaimala.com/)
