@@ -1,5 +1,3 @@
-
-
 ### Environment Setup
 
 1. Install node.js

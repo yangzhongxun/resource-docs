@@ -34,13 +34,14 @@ module.exports = {
             { text: 'Git', link: '/backend/' },
             { text: '网站导航', link: '/website/work' },
             { text: '工具软件', link: '/tools/tools' },
+            { text: '书籍推荐', link: '/books/my-library' },
             { text: '书籍推荐', link: '/books/programming' },
             { text: '电影推荐', link: '/movies/movie' },
             { text: '个人简历', link: '/resume' },
-            { text: 'github', link: '/resume' },
-            { text: 'blog', link: '/resume' },
-            { text: 'email', link: '/resume' },
-            { text: 'project', link: '/resume' }
+            { text: 'GitHub', link: '/resume' },
+            { text: 'Blog', link: '/resume' },
+            { text: 'Email', link: '/resume' },
+            { text: 'Projects', link: '/resume' }
         ],
         sidebar: {
             '/interview/': [
