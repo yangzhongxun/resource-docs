@@ -194,8 +194,10 @@ https://www.jianshu.com/p/ec770c8a5035
 - [MacRumors](https://www.macrumors.com/)
 - [GSMArena](https://www.gsmarena.com/)
 - [Hanoi](http://www.hannuota.cn/)
-- [APK Downloader - APKCombo](https://apkcombo.com/apk-downloader/)
-- [APK Downloader - evozi](https://apps.evozi.com/apk-downloader/)
+- [APKCombo - APK Downloader](https://apkcombo.com/apk-downloader/)
+- [evozi - APK Downloader](https://apps.evozi.com/apk-downloader/)
+- [Apkpure - Download APK free online](https://apkpure.com/)
+- [APK.Support - APK Downloader](https://apk.support/apk-downloader)
 - [Carbon](https://carbon.now.sh/) 代码生成图片的网站
 - [Microsoft Visio](https://www.microsoft.com/en-us/microsoft-365/visio/flowchart-software)
 

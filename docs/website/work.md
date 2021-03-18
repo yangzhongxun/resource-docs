@@ -160,7 +160,7 @@
 - [有赞技术团队](https://tech.youzan.com/)
 - [美团技术团队](https://tech.meituan.com/)
 - [奇舞团](https://75.team/)
-- [饿了么 大前端](https://fe.ele.me/)
+- [饿了么前端](https://fe.ele.me/)
 - [携程设计委员会](http://ued.ctrip.com/)
 
 ## 个人博客
