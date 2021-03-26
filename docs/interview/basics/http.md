@@ -32,8 +32,6 @@
 505 HTTP 版本不受支持。服务器不支持请求中所使用的 HTTP 协议版本
 ```
 
-
-
 - TCP 三次握手和四次挥手过程
 - TCP 和 UDP 的区别
 - HTTP 1.1，HTTP 2.0，HTTPS
@@ -45,3 +43,26 @@
 - HTTP 请求中的 keep-alive 了解吗？
 - HTTP 请求中 常用的 header 有哪些？
 - http 请求中的方式，HEAD、OPTIONS
+-  为什么http1不能实现多路复用？
+-  http2首部压缩是什么原理？
+- 讲解一下https的工作原理？
+- https的请求可以拦截么，如何做?
+
+- https是如何保证数据传输的安全的？
+
+- 讲解一下https对称加密和非对称加密?
+
+- http请求跨域问题，你都知道哪些解决跨域的方法？
+
+- 常见 content-type
+
+  ```
+  application/x-www-form-urlencoded 数据被编码成 key/value 格式，常见的 form 表单提交
+  application/json json格式的数据
+  multipart/form-data 图片/文件提交
+  image/jpeg jpg图片格式
+  text/html HTML格式
+  text/plain 纯文本格式
+  ```
+
+  

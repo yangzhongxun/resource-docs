@@ -14,7 +14,7 @@
 - 项目都用 Vue 是吧，说说 Vue 的 MVVM 如何交互的？
 - 知道 Vue 监测变量如何实现的吗？
 - Vue 双向绑定的原理（说了对象和数组的监测）？数据劫持
-- v-show，v-if 的区别
+- v-if，v-show 的区别
 - nextTick
 - 如何实现一个自定义组件，不同组件之间是如何通信的
 - 组件通信：父 -> 子，子 -> 父，非父子组件
@@ -30,3 +30,35 @@
 - Vue 和 React 有什么不同
 - complier，htmlparser，render 函数
 - 在 vue 中修改 element-ui 组件样式的方法有哪些？(>>> 或者 /deep/)
+- vue 源码
+- vue 优缺点
+- vue 特点
+- vuex设计原理
+- 虚拟 DOM，为什么速度快？
+- DOM 渲染在 哪个周期中就已经完成？
+- keep-alive的理解
+- vue如何提升首屏加载速度
+- 谈谈vue的单向数据流
+- 说一下vue的响应式原理(双向数据绑定)
+- vueRouter生命周期
+
+require.context()
+
+watch
+
+- immediate
+- deep
+
+$attrs和$listeners
+
+provide和inject
+
+parent和children
+
+$refs
+
+$root
+
+sync
+
+EventBus

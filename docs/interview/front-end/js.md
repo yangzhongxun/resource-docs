@@ -63,6 +63,7 @@ function Cat() {
 - 绑定事件有哪几种方式？addEventListener有哪些参数？冒泡跟捕获有什么区别？
 - 知道Promise是用来干嘛的吗？Promise底层如何实现的？为什么要用setTimeout去模拟。
 - setTimeout执行机制（eventLoop）
+- 定时器为什么会出现误差
 - 如何理解执行上下文
 - 如何理解作用域链
 - 如何解决异步回调地狱
@@ -76,6 +77,7 @@ promise、generator、async/await
 * get 和 post 有什么区别？
 * commonJS 和 ES Module 的区别
 * ajax 中的 option 方法知道吗？
+* var const let 的区别
 
 ## 进阶
 - 数组去重
@@ -229,7 +231,7 @@ function once(func){
 ```
 
 * 如何实现一个私有变量，用getName方法可以访问，不能直接访问
-*  == 和 ===、以及 Object.is 的区别
+* == 和 ===、以及 Object.is 的区别
 * setTimeout、setInterval和requestAnimationFrame之间的区别
 * 如何实现 sleep 的效果
 * Function._proto_(getPrototypeOf) 是什么？
@@ -239,22 +241,38 @@ function once(func){
 * 顺时针打印矩阵
 * instanceof 实现原理
 * 不用循环生成 1-1000 的数组（Array.from()）
+* Object.assign() 和 Object.create()
+* Object.defineProperty
+* 严格模式
+* 新的数组方法：forEach, map, filter
+* 如何实现一个事件注册
+* 实现一个简单的mvvm
+* css与js动画差异
+* 如何在页面上实现一个圆形的可点击区域
+* base64原理及优缺点
 
-## ES6
+## ES6+
 - let，const
 - symbol 及其应用场景
 - for...of
 - promise
-- 迭代器与生成器 generator
+- 迭代器  iterator
+- 生成器 generator
+- 代理 proxy
 - 类 class
-- 继承 extend
+- 继承 extends
 - 箭头函数
+- 模板字符串
 - 解构赋值
 - 新增的方法
 - 代理与反射
 - 模块
 - 拓展的字符串
 - rest 拓展运算符
+- spread 展开操作符
 - map，set
-- Object.assign() 和 Object.create()
+- 不定参数和默认参数
+- await，async
+- 对象属性简写、对象方法简写
+- 装饰器
 
