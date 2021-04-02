@@ -151,7 +151,7 @@ promise、generator、async/await
 
 - event loop（同步有宏任务、nexttick、微任务，异步有6个阶段）
 
-- 大数相加
+- 大数相加和大数相乘
 
 - 时针和分针在 5:15 和 7:45 的夹角
 
@@ -256,6 +256,7 @@ function once(func){
 - symbol 及其应用场景
 - for...of
 - promise
+- fetch
 - 迭代器  iterator
 - 生成器 generator
 - 代理 proxy
@@ -266,7 +267,7 @@ function once(func){
 - 解构赋值
 - 新增的方法
 - 代理与反射
-- 模块
+- 模块 module
 - 拓展的字符串
 - rest 拓展运算符
 - spread 展开操作符
@@ -274,5 +275,5 @@ function once(func){
 - 不定参数和默认参数
 - await，async
 - 对象属性简写、对象方法简写
-- 装饰器
+- 装饰器 decorator
 

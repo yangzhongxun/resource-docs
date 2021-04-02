@@ -34,7 +34,7 @@
 
 - TCP 三次握手和四次挥手过程
 - TCP 和 UDP 的区别
-- HTTP 1.1，HTTP 2.0，HTTPS
+- HTTP1，HTTP 1.1，HTTP 2.0，HTTPS
 - 说下 http 和 https（概念、区别、工作原理、各自优缺点、建立连接的过程）
 - HTTP缓存
 - DNS 解析

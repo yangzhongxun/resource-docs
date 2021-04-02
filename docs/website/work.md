@@ -210,6 +210,7 @@
 - [Lei Mao](https://leimao.github.io/)
 - [刘悦的技术博客](https://v3u.cn/)
 - [冰霜之地](https://halfrost.com/)
+- [执著人生——新浪博客](http://blog.sina.com.cn/huaqiang205800)
 
 ## 字体图标
 - [Iconfont](https://www.iconfont.cn/)

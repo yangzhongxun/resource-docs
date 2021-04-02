@@ -28,6 +28,8 @@
 
 - flex 布局
 
+- flex: 1 有什么作用？
+
 - 常见布局：流体布局，圣杯布局，双飞翼布局
 
 - grid
@@ -35,6 +37,8 @@
 - 阴影
 
 - position 属性
+
+- 定位的几种方式？
 
 - display
 
@@ -100,6 +104,8 @@
   :::
 
 - 画半圆
+  
+- 扇形。实现一个 1/4 圆、任意弧度的扇形
   
 - 画奥运五环
 
@@ -181,7 +187,9 @@
 - css 实现宽度自适应 100%，宽高 16:9 的矩形
 - 给 DOM 加遮罩层
 - 实现一个百度搜索框
+- opacity: 0、visibility: hidden、display: none 
 - 变换 transform
+- translate
 - transition, animation，以及两者的区别
 - H5 自适应方案
 - 高度塌陷及解决方案
