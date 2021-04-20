@@ -68,6 +68,7 @@
 - [Jekyll](https://jekyllrb.com/)
 - [Hexo](https://hexo.io/)
 - [VuePress](https://vuepress.vuejs.org/)
+- [VitePress](https://vitepress.vuejs.org/)
 - [Gridsome](https://github.com/gridsome/gridsome)
 - [Docsify](https://docsify.js.org/)
 - [GitBook](https://www.gitbook.com/)
