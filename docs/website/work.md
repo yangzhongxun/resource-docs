@@ -196,7 +196,6 @@
 - [屈光宇·Jerry Qu](https://imququ.com/)
 - [赵锦江·勾三股四](http://jiongks.name/)
 - [神飞·前端观察](https://www.qianduan.net/)
-- [李靖·小胡子哥](http://www.barretlee.com/)
 - [赵辉·涵月天](https://microzz.com/)
 - [huluoyang](https://huluoyang.github.io/)
 - [梁杰的个人博客](http://numbbbbb.com/)
