@@ -21,7 +21,6 @@
 - [W3cplus](https://www.w3cplus.com/)
 - [W3ctech](https://w3ctech.com/)
 - [51CTO](https://www.51cto.com/)
-- [面经网](https://v2ee.cn/)
 - [DEV Community](https://dev.to/)
 - [LearnKu](https://learnku.com/)
 - [W3C](https://www.w3.org/)
@@ -124,7 +123,7 @@
 - [Vue.js 技术内幕](http://hcysun.me/vue-design/zh/)
 - [CS-Notes](http://www.cyc2018.xyz/)
 - [labuladong的算法小抄](https://labuladong.gitbook.io/algo/)
-- [力扣(lucifer)](https://leetcode-solution.cn/)
+- [力扣加加(lucifer)](https://leetcode-solution.cn/)
 
 ## 文章收藏
 - [JS 开发者必知的 33 个概念](https://github.com/leonardomso/33-js-concepts)
@@ -138,20 +137,19 @@
 - [Java 快速教程](https://www.cnblogs.com/vamei/archive/2013/03/31/2991531.html)
 
 ## 面试题库
-
 - [前端面试与进阶指南](https://www.cxymsg.com/)
 - [前端进阶之道](https://yuchengkai.cn/)
 - [大前端面试题目](http://bigerfe.com/)
 - [木易杨前端进阶](https://muyiy.cn/)
 - [大厂面试每日一题](https://q.shanyue.tech/)
 - [大前端面试宝典 - 图解前端](https://lucifer.ren/fe-interview/)
+- [CodeTop企业题目](https://codetop.cc/)
 - [面经网](https://v2ee.cn/)
 
 ## 团队博客
 - [腾讯AlloyTeam](http://alloyteam.com/)
 - [腾讯IMWeb](https://imweb.io/)
 - [淘系前端团队](https://fed.taobao.org/)
-- [奇舞团](https://75team.com/)
 - [京东凹凸实验室](https://aotu.io/)
 - [京东 JDC](https://jdc.jd.com/)
 - [百度 FEX](http://fex.baidu.com/)
@@ -161,7 +159,6 @@
 - [美团技术团队](https://tech.meituan.com/)
 - [奇舞团](https://75.team/)
 - [饿了么前端](https://fe.ele.me/)
-- [携程设计委员会](http://ued.ctrip.com/)
 
 ## 个人博客
 - [廖雪峰](https://www.liaoxuefeng.com/)
@@ -181,7 +178,6 @@
 - [纯洁的微笑](http://www.ityouknow.com/)
 - [HcySunYang](http://hcysun.me/)
 - [lucifer](https://lucifer.ren/)
-- [lucifer的网络博客](https://lucifer.ren/blog/)
 - [John Resig](https://johnresig.com/)
 - [Java 全栈知识体系](https://www.pdai.tech/)
 - [Aaron](https://guanpengchn.github.io/)
@@ -204,13 +200,17 @@
 - [赵辉·涵月天](https://microzz.com/)
 - [huluoyang](https://huluoyang.github.io/)
 - [梁杰的个人博客](http://numbbbbb.com/)
-- [豪情 - 博客园](https://www.cnblogs.com/jikey/)
-- [吕大豹 - 博客园](http://www.cnblogs.com/lvdabao/)
+- [豪情](https://www.cnblogs.com/jikey/)
+- [吕大豹](http://www.cnblogs.com/lvdabao/)
 - [Francis·邱志超](http://qiuzhichao.me/)
 - [Lei Mao](https://leimao.github.io/)
 - [刘悦的技术博客](https://v3u.cn/)
 - [冰霜之地](https://halfrost.com/)
-- [执著人生——新浪博客](http://blog.sina.com.cn/huaqiang205800)
+- [执著人生](http://blog.sina.com.cn/huaqiang205800)
+- [Sofish](https://sofi.sh/)
+- [Chang Gao](https://www.changgy.com/)
+- [CodeSheep·程序羊](https://www.codesheep.cn/)
+- [zhoukekestar](https://zhoukekestar.github.io/)
 
 ## 字体图标
 - [Iconfont](https://www.iconfont.cn/)
@@ -259,15 +259,7 @@
 - [传智播客](http://www.itcast.cn/)
 - [黑马程序员](http://www.itheima.com/)
 - [尚学堂](https://www.bjsxt.com/)
-- [京程一灯](https://www.yidengxuetang.com/)
-- [潭州教育](https://www.tanzhouedu.com/)
-- [潭州课堂](https://www.shiguangkey.com/)
 - [千锋教育](http://www.mobiletrain.org/)
-- [达内](http://www.tedu.cn/)
-- [北大青鸟](http://www.bdqn.cn/)
 - [尚硅谷](http://www.atguigu.com/)
-- [修真院](http://www.jnshu.com/)
+- [京程一灯](https://www.yidengxuetang.com/)
 - [不凡学院](https://www.bufanui.com/)
-- [优就业](http://www.ujiuye.com/)
-- [珠峰培训](http://www.zhufengpeixun.cn/)
-- [饥人谷](https://jirengu.com/) [写代码啦](https://xiedaimala.com/)

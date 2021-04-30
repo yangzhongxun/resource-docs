@@ -24,24 +24,23 @@ module.exports = {
     lastUpdated: '上次更新',
     themeConfig: {
         nav: [
-            { text: '算法', link: '/algorithm/' },
-            { text: '计算机基础', link: '/computer-basic/' },
             { text: '前端题库', link: '/interview/front-end/html' },
-            { text: '后端学习', link: '/backend/' },
-            { text: 'Java', link: '/python/' },
-            { text: 'Python', link: '/python/' },
-            { text: 'SQL', link: '/backend/' },
-            { text: 'Git', link: '/backend/' },
             { text: '网站导航', link: '/website/work' },
-            { text: '工具软件', link: '/tools/tools' },
-            { text: '书籍推荐', link: '/books/my-library' },
+            { text: '软件工具', link: '/tools/tools' },
             { text: '书籍推荐', link: '/books/programming' },
             { text: '电影推荐', link: '/movies/movie' },
-            { text: '个人简历', link: '/resume' },
-            { text: 'GitHub', link: '/resume' },
-            { text: 'Blog', link: '/resume' },
-            { text: 'Email', link: '/resume' },
-            { text: 'Projects', link: '/resume' }
+            { text: 'GitHub', link: 'https://github.com/yangzhongxun' },
+            // { text: '后端学习', link: '/backend/' },
+            // { text: 'Java', link: '/java/' },
+            // { text: 'Python', link: '/python/' },
+            // { text: 'SQL', link: '/sql/' },
+            // { text: 'Git', link: '/git/' },
+            // { text: '计算机基础', link: '/computer-basic/' },
+            // { text: '算法', link: '/algorithm/' },
+            // { text: '个人简历', link: '/resume' },
+            // { text: 'Projects', link: '/project' },
+            // { text: 'Blog', link: '/blog' },
+            // { text: 'Email', link: '/email' },
         ],
         sidebar: {
             '/interview/': [
@@ -121,10 +120,15 @@ module.exports = {
             ],
             '/tools/': [
                 {
-                    title: '常用工具',
+                    title: '软件工具',
                     path: 'tools',
                     collapsable: false
-                }
+                },
+                {
+                    title: '短链接',
+                    path: 'url-shortener',
+                    collapsable: false
+                },
             ],
             '/books/': [
                 {

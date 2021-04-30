@@ -24,7 +24,6 @@
 - [Charles](https://www.charlesproxy.com/)
 - [有道云笔记](http://note.youdao.com/)
 - 印象笔记
-- [新浪短网址](http://sina.lt/)
 - [Gmail](https://www.google.com/gmail/)
 - [typing.io](https://typing.io/)
 - [keybr](https://www.keybr.com/)
@@ -47,8 +46,6 @@
 - [印记中文](https://www.docschina.org/)
 - [Editor.md](https://pandao.github.io/editor.md/)
 - [DevDocs](http://devdocs.io/)
-- [MacRumors](https://www.macrumors.com/)
-- [GSMArena](https://www.gsmarena.com/)
 - [Hanoi](http://www.hannuota.cn/)
 - [APKCombo - APK Downloader](https://apkcombo.com/apk-downloader/)
 - [evozi - APK Downloader](https://apps.evozi.com/apk-downloader/)
@@ -56,6 +53,13 @@
 - [APK.Support - APK Downloader](https://apk.support/apk-downloader)
 - [Carbon](https://carbon.now.sh/) 代码生成图片的网站
 - [Microsoft Visio](https://www.microsoft.com/en-us/microsoft-365/visio/flowchart-software)
+
+## 3C 类
+
+- [MacRumors](https://www.macrumors.com/)
+- [GSMArena](https://www.gsmarena.com/)
+- [PhoneArena](https://www.phonearena.com/)
+- [GeekBench](https://www.geekbench.com/)
 
 ## 浏览器
 - [Google Chrome](https://www.google.com/chrome/)
