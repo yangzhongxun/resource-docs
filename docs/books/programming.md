@@ -15,56 +15,43 @@
 | CSS 权威指南（第4版） |  |  |  |  |  |
 | CSS 禅意花园 |  |  |  |  |  |
 
-## JavaScript 基础
+## JavaScript
 | 书名 | 作者 | 豆瓣评分 | 页数 | 出版日期 | 备注 |
 | ---- | ---- | ---- | ---- | -------- | ---- |
-| [JavaScript 高级程序设计（第4版）](https://book.douban.com/subject/10546125/) |      |      |      |       | 红宝书 |
-| [JavaScript 权威指南（第7版）](https://book.douban.com/subject/10549733/) |      |      |      |          | 犀牛书 |
-| [JavaScript 语言精粹：修订版](https://book.douban.com/subject/11874748/) |      |      |      |      | 蝴蝶书 |
-| 你不知道的 JavaScript  |      |      |      |          | 黄宝书 |
-| [JavaScript 入门经典（第5版）](https://book.douban.com/subject/26721798/)  |      |      |      |          |      |
-| [Head First JavaScript 程序设计](https://book.douban.com/subject/27120520/)  |      | 8.7 |      |          |      |
-| JavaScript 语法简明手册 | | | | | |
+| [JavaScript 高级程序设计（第4版）](https://book.douban.com/subject/10546125/) | 马特·弗里斯比 | 9.2 | 888 | 2020-8 | 红宝书 |
+| [JavaScript 权威指南（第7版）](https://book.douban.com/subject/10549733/) | David Flanagan | 9.8 | 596 | 2021-3-20 | 犀牛书 |
+| [你不知道的 JavaScript（上卷）](https://book.douban.com/subject/26351021/) | Kyle Simpson | 9.3 | 195 | 2015-4 | 黄皮书 |
+| [你不知道的 JavaScript（中卷）](https://book.douban.com/subject/26854244/) | Kyle Simpson | 8.7 | 358 | 2016-8 | 黄皮书 |
+| [JavaScript 悟道](https://book.douban.com/subject/35469273/) | Douglas Crockford |  |  | 2021-6 | 葵花宝典 |
+| [JavaScript 设计模式与开发实践](https://book.douban.com/subject/26382780/) | 曾琛 | 9.0 | 294 | 2015-5 | |
 
-## JavaScript 进阶
-| 书名 | 作者 | 豆瓣评分 | 页数 | 出版日期 | 备注 |
-| ---- | ---- | ---- | ---- | -------- | ---- |
-| [JavaScript 设计模式与开发实践]() |      |      |      |          |      |
-| JavaScript 框架设计（第2版） |      |      |      |          |      |
-| JavaScript 忍者秘籍（第2版） |      |      |      |          |      |
-| 深入理解 JavaScript 特性 |      |      |      |          |      |
-| JavaScript 语言精髓与编程实践（第3版） |      |      |      |          | 绿宝书 |
-| 学习 JavaScript 数据结构与算法（第3版） |      |      |      |          |      |
-| 精通 JavaScript 开发 |      |      |      |          |      |
-| Effective JavaScript | | 8.7 | | | |
-| JavaScript编程精解（第3版） | | | | | |
-| 高性能 JavaScript |      |      |      |          | 过时 |
-| 数据结构与算法 JavaScript 描述 |      |      |      |          | 过时 |
-| JavaScript 设计模式 |      |      |      |          | 过时 |
-| JavaScript 模式 |      |      |      |          | 过时 |
-| 编写可维护的 JavaScript |      |      |      |          | 过时 |
-| 编写可测试的 JavaScript 代码 | | | | | 过时 |
-| 基于MVC 的 JavaScript Web 富应用开发 | | | | | 过时 |
-| JavaScript 王者归来 | | | | | 过时 |
-| ppk 谈 JavaScript | | | | | 过时 |
-| JavaScript & jQuery交互式Web前端开发 | | | | |  |
-| JavaScript 函数式编程 | | | | |  |
-| JavaScript启示录 | | | | | |
-| JavaScript DOM 编程艺术 | | | | | |
 
-基于 MVC 的 JavaScript Web 富应用开发
 
-了不起的 JavaScript 工程师：从前端到全端高级进阶
+#### 不推荐的书籍
 
-Eloquent JavaScript（JavaScript编程精解）
-
-现代javascript教程：https://zh.javascript.info/
-
-practical-modern-javascript 深入理解JS特性
-
-How JavaScript works
-
-2017阿里技术年度精选
+| 书名                                                         | 作者                       | 豆瓣评分 | 页数 | 出版日期  | 备注             |
+| ------------------------------------------------------------ | -------------------------- | -------- | ---- | --------- | ---------------- |
+| [JavaScript 语言精粹：修订版](https://book.douban.com/subject/11874748/) | Douglas Crockford          | 9.1      | 155  | 2012-9-1  | 蝴蝶书           |
+| 高性能 JavaScript                                            |                            |          |      |           | 过时             |
+| 数据结构与算法 JavaScript 描述                               |                            | 6.6      | 216  | 2014-8    | 过时、评分低     |
+| JavaScript 设计模式                                          |                            |          |      |           | 过时             |
+| JavaScript 模式                                              |                            |          |      |           | 过时             |
+| 编写可维护的 JavaScript                                      |                            |          |      |           | 过时             |
+| 编写可测试的 JavaScript 代码                                 |                            |          |      |           | 过时             |
+| 基于MVC 的 JavaScript Web 富应用开发                         |                            |          |      |           | 过时             |
+| JavaScript 王者归来                                          |                            |          |      |           | 过时             |
+| ppk 谈 JavaScript                                            |                            | 8.5      | 337  | 2008-4    | 过时             |
+| JavaScript DOM 编程艺术（第2版）                             |                            | 8.6      | 300  | 2011-4    | 过时             |
+| Effective JavaScript                                         | David Herman               | 8.4      | 164  | 2014-1-1  |                  |
+| JavaScript 框架设计（第2版）                                 | 司徒正美                   | 7.0      | 457  | 2017-8    |                  |
+| 了不起的 JavaScript 工程师：从前端到全端高级进阶             | 朱德龙                     | 暂无     | 336  | 2019-8    | 孔雀书           |
+| JavaScript编程精解（第3版）                                  | 马尔奇·哈弗贝克            | 7.3      | 354  | 2020-3-20 | 评价人数少       |
+| [你不知道的 JavaScript（下卷）](https://book.douban.com/subject/27620408/) | Kyle Simpson               | 7.6      | 264  | 2018-1-1  | 黄皮书           |
+| 学习 JavaScript 数据结构与算法（第3版）                      | [巴西]洛伊安妮·格罗纳      | 8.5      | 308  | 2019-5    |                  |
+| [深入理解JavaScript特性](https://book.douban.com/subject/33441887/) | [阿根廷] 尼古拉斯 • 贝瓦夸 | 8.4      | 264  | 2019-5    |                  |
+| [JavaScript 忍者秘籍（第2版）](https://book.douban.com/subject/30143702/) |                            | 8.5      | 448  | 2018-3-8  |                  |
+| [Head First JavaScript 程序设计](https://book.douban.com/subject/27120520/) |                            | 9.0      | 702  | 2017-9    |                  |
+| [JavaScript 语言精髓与编程实践（第3版）](https://book.douban.com/subject/35085910/) | 周爱民                     | 8.9      | 776  | 2020-5    | 绿宝书，难度略大 |
 
 
 
