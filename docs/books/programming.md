@@ -18,7 +18,7 @@
 ## JavaScript
 | 书名 | 作者 | 豆瓣评分 | 页数 | 出版日期 | 备注 |
 | ---- | ---- | ---- | ---- | -------- | ---- |
-| [JavaScript 高级程序设计（第4版）](https://book.douban.com/subject/10546125/) | 马特·弗里斯比 | 9.2 | 888 | 2020-8 | 红宝书 |
+| [JavaScript 高级程序设计（第4版）](https://book.douban.com/subject/35175321/) | 马特·弗里斯比 | 9.2 | 888 | 2020-8 | 红宝书 |
 | [JavaScript 权威指南（第7版）](https://book.douban.com/subject/35396470/) | David Flanagan | 9.8 | 596 | 2021-3-20 | 犀牛书 |
 | [你不知道的 JavaScript（上卷）](https://book.douban.com/subject/26351021/) | Kyle Simpson | 9.3 | 195 | 2015-4 | 黄皮书 |
 | [你不知道的 JavaScript（中卷）](https://book.douban.com/subject/26854244/) | Kyle Simpson | 8.7 | 358 | 2016-8 | 黄皮书 |
