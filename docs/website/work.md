@@ -199,8 +199,6 @@
 - [赵辉·涵月天](https://microzz.com/)
 - [huluoyang](https://huluoyang.github.io/)
 - [梁杰的个人博客](http://numbbbbb.com/)
-- [豪情](https://www.cnblogs.com/jikey/)
-- [吕大豹](http://www.cnblogs.com/lvdabao/)
 - [Francis·邱志超](http://qiuzhichao.me/)
 - [Lei Mao](https://leimao.github.io/)
 - [刘悦的技术博客](https://v3u.cn/)
@@ -210,6 +208,7 @@
 - [Chang Gao](https://www.changgy.com/)
 - [CodeSheep·程序羊](https://www.codesheep.cn/)
 - [zhoukekestar](https://zhoukekestar.github.io/)
+- [IT码农-谭庆波](https://tanqingbo.cn/)
 
 ## 字体图标
 - [Iconfont](https://www.iconfont.cn/)
