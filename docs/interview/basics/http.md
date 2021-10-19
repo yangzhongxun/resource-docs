@@ -33,19 +33,33 @@
 ```
 
 - TCP 三次握手和四次挥手过程
+
 - TCP 和 UDP 的区别
+
 - HTTP1，HTTP 1.1，HTTP 2.0，HTTPS
+
 - 说下 http 和 https（概念、区别、工作原理、各自优缺点、建立连接的过程）
+
 - HTTP缓存
+
 - DNS 解析
+
 - CDN
+
 - get / post
+
 - HTTP 请求中的 keep-alive 了解吗？
+
 - HTTP 请求中 常用的 header 有哪些？
+
 - http 请求中的方式，HEAD、OPTIONS
--  为什么http1不能实现多路复用？
--  http2首部压缩是什么原理？
+
+- 为什么http1不能实现多路复用？
+
+- http2首部压缩是什么原理？
+
 - 讲解一下https的工作原理？
+
 - https的请求可以拦截么，如何做?
 
 - https是如何保证数据传输的安全的？
@@ -53,6 +67,8 @@
 - 讲解一下https对称加密和非对称加密?
 
 - http请求跨域问题，你都知道哪些解决跨域的方法？
+
+- Fetch 的底层架构是怎样的？
 
 - 常见 content-type
 

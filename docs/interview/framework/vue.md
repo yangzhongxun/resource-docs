@@ -17,7 +17,7 @@
 - Vue 双向绑定的原理（说了对象和数组的监测）？数据劫持
 - v-if，v-show 的区别
 - nextTick
-- 如何实现一个自定义组件，不同组件之间是如何通信的
+- 组件，如何实现一个自定义组件，不同组件之间是如何通信的
 - 组件通信：父 -> 子，子 -> 父，非父子组件
 - diff 算法
 - Proxy 对比 defineProperty
@@ -26,10 +26,11 @@
 - 为什么 data 必须是函数
 - keep-alive
 - watch 和 computed 的用法和区别
+- 路由
 - 路由的跳转方式
 - Vue 和 jQuery 有什么不同
 - Vue 和 React 有什么不同
-- complier，htmlparser，render 函数
+- compiler，htmlparser，render 函数
 - 在 vue 中修改 element-ui 组件样式的方法有哪些？(>>> 或者 /deep/)
 - vue 源码
 - vue 优缺点

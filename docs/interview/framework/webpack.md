@@ -16,3 +16,4 @@
 * webpack scope hosting
 * webpack 打包优化
 * code split 的原理
+* babel

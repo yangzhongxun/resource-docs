@@ -5,9 +5,9 @@
 - 引用数据类型
 - 数组常用方法
 - DOM 操作的 API 有哪些？
-- typeof，instaceof
-- 节流、防抖
+- typeof，instanceof
 - call，apply，bind
+- 节流、防抖
 - ajax的原理，手写ajax
 - 深浅克隆
 - 尾递归调用，有什么问题，如何优化
@@ -42,42 +42,73 @@ function Cat() {
 :::
 
 - 事件(W3C和IE)
+
 - setTimeout与setInterval
+
 - this
+
 - new关键字的过程，尝试自己实现
+
 - 懒加载和预加载，各自好处，区别，如何实现
+
 - 操作符优先级
+
 - 事件循环机制
+
 - 继承的几种方式
+
 - 构造函数
+
 - [1,2,3].push(4) 的返回值
+
 - 事件委托
+
 - arguments
+
 - 变量提升和函数声明提升
+
 - JS的单线程
+
 - 同步与异步
+
 - 对象遍历 for in / for of / Object.keys()
+
 - JavaScript的基本数据类型，0 == null吗？为什么？
+
 - == 和 === 的区别
+
+- cookie 的基本操作和封装
+
 - cookie除了key与value还有哪些参数
+
 - 绑定事件有哪几种方式？addEventListener有哪些参数？冒泡跟捕获有什么区别？
+
 - 知道Promise是用来干嘛的吗？Promise底层如何实现的？为什么要用setTimeout去模拟。
+
 - setTimeout执行机制（eventLoop）
+
 - 定时器为什么会出现误差
+
 - 如何理解执行上下文
+
 - 如何理解作用域链
+
+- 判断是否是 NaN
+
 - 如何解决异步回调地狱
 
+  ::: details 显示代码
 ```
 promise、generator、async/await
 ```
+​		:::
 
-* js 的各种位置，比如 clientHeight,scrollHeight,offsetHeight ,以及scrollTop, offsetTop,clientTop 的区别？
-* 实现一个 EventEmitter(on, off, emit, once)
-* get 和 post 有什么区别？
-* commonJS 和 ES Module 的区别
-* ajax 中的 option 方法知道吗？
-* var const let 的区别
+- js 的各种位置，比如 clientHeight, scrollHeight, offsetHeight 以及 scrollTop, offsetTop, clientTop 的区别？
+- 实现一个 EventEmitter(on, off, emit, once)
+- get 和 post 有什么区别？
+- commonJS 和 ES Module 的区别
+- ajax 中的 option 方法了解吗？
+- var, const, let 的区别
 
 ## 进阶
 - 数组去重
@@ -122,7 +153,7 @@ promise、generator、async/await
 
 - 判断是否是数组 Object.prototype.toString.call, Array.isArray(), instanceof
 
-- 什么是MVVM，MVC，MVP
+- 什么是 MVVM，MVC，MVP
 
 - SPA，SSR
 
@@ -182,9 +213,9 @@ promise、generator、async/await
 
   :::
 
-- settimeout实现interval(注意和普通的要无差别体验)
+- setTimeout 实现 interval(注意和普通的要无差别体验)
 
-- 字符串大小写反转(送分)
+- 字符串大小写反转
 
 - 合并数组
 
@@ -200,56 +231,55 @@ promise、generator、async/await
 // 我们假设这里有一个user对象,
 // (1)在ES5中可以通过Object.defineProperty来实现已有属性的监听
 Object.defineProperty(user, 'name', {
-set：function(key,value){
-}
-})
+  set: function(key, value){}
+});
 // 缺点：如果id不在user对象中，则不能监听id的变化
 
 //(2)在ES6中可以通过Proxy来实现
-var  user = new Proxy({}，{
-set：function(target,key,value,receiver){
-}
+const user = new Proxy({}, {
+  set: function(target,key,value,receiver) {}
 })
 // 这样即使有属性在user中不存在，通过user.id来定义也同样可以这样监听这个属性的变化哦~
 ```
 
-* 将原生的ajax封装成promise
+* 将原生的 ajax 封装成 promise
 * 实现一个once函数，传入函数参数只执行一次
 
 ```js
-function once(func){
-  var tag = true;
+function once(func) {
+  let available = true;
   
-  return function(){
-    if(tag == true){
+  return function() {
+    if(available === true){
       func.apply(null, arguments);
-      tag = false;
+      available = false;
     }
-    return undefined;
   }
 }
 ```
 
-* 如何实现一个私有变量，用getName方法可以访问，不能直接访问
-* == 和 ===、以及 Object.is 的区别
-* setTimeout、setInterval和requestAnimationFrame之间的区别
-* 如何实现 sleep 的效果
-* Function._proto_(getPrototypeOf) 是什么？
-* 观察者和发布订阅区别
-* 消费者模式
-* 杨辉三角形
-* 顺时针打印矩阵
-* instanceof 实现原理
-* 不用循环生成 1-1000 的数组（Array.from()）
-* Object.assign() 和 Object.create()
-* Object.defineProperty
-* 严格模式
-* 新的数组方法：forEach, map, filter
-* 如何实现一个事件注册
-* 实现一个简单的mvvm
-* css与js动画差异
-* 如何在页面上实现一个圆形的可点击区域
-* base64原理及优缺点
+- 如何实现一个私有变量，用getName方法可以访问，不能直接访问
+- == 和 ===、以及 Object.is 的区别
+- setTimeout、setInterval和requestAnimationFrame之间的区别
+- 如何实现 sleep 的效果
+- Function._proto_(getPrototypeOf) 是什么？
+- 观察者模式和发布订阅模式的区别
+- 消费者模式
+- 杨辉三角形
+- 顺时针打印矩阵
+- instanceof 实现原理，尝试自己实现
+- 不用循环生成 1-1000 的数组（Array.from()）
+- Object.assign() 和 Object.create()
+- Object.defineProperty
+- 严格模式
+- 新的数组方法：forEach, map, filter
+- 如何实现一个事件注册
+- 实现一个简单的mvvm
+- css与js动画差异
+- 如何在页面上实现一个圆形的可点击区域
+- base64原理及优缺点
+- 如何避免自己的页面被嵌套
+- 怎么阻止浏览器右键
 
 ## ES6+
 - let，const
@@ -264,7 +294,7 @@ function once(func){
 - 继承 extends
 - 箭头函数
 - 模板字符串
-- 解构赋值
+- 解构赋值 Destructuring
 - 新增的方法
 - 代理与反射
 - 模块 module
@@ -276,4 +306,6 @@ function once(func){
 - await，async
 - 对象属性简写、对象方法简写
 - 装饰器 decorator
+- Tail Calling
+- Fetch
 
