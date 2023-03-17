@@ -3,10 +3,9 @@
 ## 精选网站
 - [Google](https://www.google.com/)
 - [GitHub](https://github.com/)
-- [MDN](https://developer.mozilla.org/)
-- [MSDN](https://docs.microsoft.com/zh-cn/)
-- [W3Schools](https://www.w3schools.com/)
 - [Stack Overflow](https://stackoverflow.com/)
+- [MDN Web Docs](https://developer.mozilla.org/)
+- [W3Schools](https://www.w3schools.com/)
 
 ## 技术社区
 - [SegmentFault](https://segmentfault.com/)
