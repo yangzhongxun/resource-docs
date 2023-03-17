@@ -52,7 +52,7 @@ module.exports = {
                         'basics/algorithm',
                         'basics/http',
                         'basics/network',
-                        'basics/operate-system',
+                        'basics/operating-system',
                         'basics/design-patterns',
                         'basics/regular-expression'
                     ]
