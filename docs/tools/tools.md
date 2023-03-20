@@ -5,7 +5,7 @@
 - [Can I use](https://caniuse.com/)
 - [BootCDN](https://www.bootcdn.cn/)
 - [jsDelivr](https://www.jsdelivr.com/)
-- [cndjs](https://cdnjs.com/)
+- [cdnjs](https://cdnjs.com/)
 - [unpkg](https://unpkg.com/)
 - [Staticfile CDN](https://www.staticfile.org/)
 - [贝洽(BearyChat)](https://bearychat.com/)
@@ -19,16 +19,15 @@
 - [ONES](https://ones.ai/)
 - [今日诗词](https://www.jinrishici.com/)
 - [Unsplash](https://unsplash.com/)
-- [Swagger](https://swagger.io/)
 - [Fiddler](https://www.telerik.com/fiddler)
 - [Charles](https://www.charlesproxy.com/)
 - [有道云笔记](http://note.youdao.com/)
-- 印象笔记
-- [Gmail](https://www.google.com/gmail/)
+- [印象笔记](http://www.yinxiang.com/)
+- [Gmail](https://mail.google.com/)
 - [typing.io](https://typing.io/)
 - [keybr](https://www.keybr.com/)
 - [Postman](https://www.postman.com/)
-- PostWoman
+- [PostWoman](https://postwoman.io/)
 - [iTerm2](https://www.iterm2.com/)
 - [HomeBrew](https://brew.sh/)
 - [Dash](https://www.dash.org/)
@@ -42,6 +41,7 @@
 - [FIS3](http://fis.baidu.com/)
 - [JSON2Excel](http://j2e.kpoda.com/)
 - [看云](https://www.kancloud.cn/)
+- [Swagger](https://swagger.io/)
 - [ShowDoc](https://www.showdoc.cc/)
 - [印记中文](https://www.docschina.org/)
 - [Editor.md](https://pandao.github.io/editor.md/)
@@ -55,7 +55,6 @@
 - [Microsoft Visio](https://www.microsoft.com/en-us/microsoft-365/visio/flowchart-software)
 
 ## 3C 类
-
 - [MacRumors](https://www.macrumors.com/)
 - [GSMArena](https://www.gsmarena.com/)
 - [PhoneArena](https://www.phonearena.com/)
@@ -71,14 +70,14 @@
 ## 文档工具
 - [Jekyll](https://jekyllrb.com/)
 - [Hexo](https://hexo.io/)
-- [VuePress](https://vuepress.vuejs.org/)
-- [VitePress](https://vitepress.vuejs.org/)
-- [Gridsome](https://github.com/gridsome/gridsome)
-- [Docsify](https://docsify.js.org/)
 - [GitBook](https://www.gitbook.com/)
+- [VuePress](https://vuepress.vuejs.org/)
+- [VitePress](https://vitepress.dev/)
+- [Gridsome](https://github.com/gridsome/gridsome)
 - [Docusaurus](https://docusaurus.io/)
-- [Docute](https://github.com/egoist/docute)
-- [eoLinker](https://www.eolinker.com/)
+- [Docsify](https://docsify.js.org/)
+- [Docute](https://github.com/egoist/docute) - No longer actively maintained
+- [Eolink](https://www.eolink.com/)
 
 ## 在线文档
 - [谷歌文档](https://docs.google.com/)
@@ -112,16 +111,16 @@
 - [webflow](https://webflow.com/)
 
 ## 设计软件
-- Adobe PhotoShop
+- [Adobe PhotoShop](https://www.adobe.com/products/photoshop.html)
 - [sketch](https://www.sketch.com/)
 - [Photopea](https://www.photopea.com/)
 
 ## 思维导图
-- [XMind](https://www.xmind.net/)
+- [Xmind](https://www.xmind.net/)
 - [百度脑图](http://naotu.baidu.com/)
 - [幕布](https://mubu.com/)
-- [mindMaster](https://www.mindmaster.io/)
-- [mindMeister](https://www.mindmanager.com/)
+- [MindMaster](https://www.mindmaster.io/)
+- [MindManager](https://www.mindmanager.com/)
 - mindmap
 - mindmaps
 - mindnode
@@ -140,9 +139,9 @@
 - wisemapping
 
 ## 开发工具
-- IntelliJ IDEA
-- Pycharm
-- GoLand
+- [IntelliJ IDEA](https://www.jetbrains.com/idea/)
+- [PyCharm](https://www.jetbrains.com/pycharm/)
+- [GoLand](https://www.jetbrains.com/go/)
 - [WebStorm](https://www.jetbrains.com/webstorm/)
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Sublime Text](https://www.sublimetext.com/)
@@ -152,17 +151,17 @@
 - [Emacs](https://www.gnu.org/software/emacs/)
 
 ## 在线编辑器
-- [jsFiddle](http://jsfiddle.net/)
-- [codeSandBox](https://codesandbox.io/)
-- [Codepen](https://codepen.io/)
-- [jsbin](https://jsbin.com/)
+- [StackBlitz](https://stackblitz.com/)
+- [CodeSandBox](https://codesandbox.io/)
+- [CodePen](https://codepen.io/)
+- [JSFiddle](http://jsfiddle.net/)
+- [JS Bin](https://jsbin.com/)
 - [Show Me The Code](https://www.icode.live/)
 - [PlayCode](https://playcode.io/)
 
 ## 数据库可视化工具
-
-- Navicat Premium
-- DataGrip
+- [Navicat](https://navicat.com/)
+- [DataGrip](https://www.jetbrains.com/datagrip/)
 
 ## Markdown
 - [马克飞象](https://maxiang.io/)
@@ -178,6 +177,4 @@
 - [Macmillan Dictionary](https://www.macmillandictionary.com/)
 - [Cambridge Dictionary](https://dictionary.cambridge.org/)
 - [Merriam-Webster's Learner's Dictionary](https://www.learnersdictionary.com/)
-- [Google翻译](https://translate.google.com/)
-- [Google翻译 - 中文](https://translate.google.cn/)
-- [有道词典](https://youdao.com/)
+- [Google Translate](https://translate.google.com/)
