@@ -29,10 +29,6 @@
 
 ## 学习网站
 - [慕课网](http://www.imooc.com/)
-- [极客学院](http://www.jikexueyuan.com/)
-- [妙味课堂](https://www.miaov.com/)
-- [智能社](https://www.zhinengshe.com/)
-- [开课吧](https://www.kaikeba.com/)
 - [扣丁学堂](http://www.codingke.com/)
 - [学堂在线](https://next.xuetangx.com/)
 - [极客时间](https://time.geekbang.org/)
@@ -54,6 +50,10 @@
 - [Frontend Masters](https://frontendmasters.com/)
 - [Best of JavaScript](http://bestof.js.org/)
 - [AlgoExpert](https://www.algoexpert.io/)
+- ~~极客学院~~ - 官网重定向到极客
+- ~~妙味课堂~~ - 官网打不开
+- ~~智能社~~ - 官网打不开，从网上看到有人说被开课吧收购
+- ~~开课吧~~ - 官网和APP都不能使用，课程据说已转到小鹅通
 
 ## 编程练习
 - [LeetCode](https://leetcode.com/)
