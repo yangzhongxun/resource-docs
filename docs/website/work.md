@@ -107,9 +107,8 @@
 - [Leetcode solutions](https://leetcode-solution-leetcode-pp.gitbook.io/leetcode-solution/)
 
 ## 技术文档
-- [JavaScript - 廖雪峰](https://www.liaoxuefeng.com/wiki/1022910821149312)
-- [现代 JavaScript 教程 - 英文版](https://javascript.info/)
-- [现代 JavaScript 教程 - 中文版](https://zh.javascript.info/)
+- [JavaScript 教程 - 廖雪峰](https://www.liaoxuefeng.com/wiki/1022910821149312)
+- [现代 JavaScript 教程](https://javascript.info/)
 - [Python 教程](https://www.liaoxuefeng.com/wiki/1016959663602400)
 - [Java 教程](https://www.liaoxuefeng.com/wiki/1252599548343744)
 - [SQL 教程](https://www.liaoxuefeng.com/wiki/1177760294764384)
