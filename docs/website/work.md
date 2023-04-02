@@ -6,6 +6,8 @@
 - [Stack Overflow](https://stackoverflow.com/)
 - [MDN Web Docs](https://developer.mozilla.org/)
 - [W3Schools](https://www.w3schools.com/)
+- [Youtube](https://www.youtube.com/)
+- [TED](https://www.ted.com/)
 
 ## 技术社区
 - [SegmentFault](https://segmentfault.com/)
@@ -37,19 +39,18 @@
 - [网易云课堂](https://study.163.com/)
 - [腾讯课堂](https://ke.qq.com/)
 - [有道精品课](https://ke.youdao.com/)
-- [edX](https://www.edx.org/)
 - [Coursera](https://www.coursera.org/)
-- [Udacity](https://www.udacity.com/)
-- [Youtube](https://www.youtube.com/?hl=zh-CN)
-- [TED](https://www.ted.com/)
+- [edX](https://www.edx.org/)
 - [Udemy](https://www.udemy.com/)
+- [Udacity](https://www.udacity.com/)
 - [Khan Academy](https://www.khanacademy.org/)
-- [Vue School](https://vueschool.io/)
-- [Vue Mastery](https://www.vuemastery.com/)
+- [Codecademy](https://www.codecademy.com/)
+- [AlgoExpert](https://www.algoexpert.io/)
 - [九章算法](https://www.jiuzhang.com/)
 - [Frontend Masters](https://frontendmasters.com/)
 - [Best of JavaScript](http://bestof.js.org/)
-- [AlgoExpert](https://www.algoexpert.io/)
+- [Vue School](https://vueschool.io/)
+- [Vue Mastery](https://www.vuemastery.com/)
 - ~~极客学院~~ - 官网重定向到极客
 - ~~妙味课堂~~ - 官网打不开
 - ~~智能社~~ - 官网打不开，从网上看到有人说被开课吧收购
@@ -95,7 +96,6 @@
 - http://ife.baidu.com
 - [AcCoder](http://atcoder.jp)
 - Timus Online Judge：https://acm.timus.ru/
-- [Codecademy](https://www.codecademy.com/)
 - [CodeHS](https://codehs.com/)
 - [HackerEarth](https://www.hackerearth.com/)
 - [Coderbyte](https://coderbyte.com/)
